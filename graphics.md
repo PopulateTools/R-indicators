@@ -61,7 +61,9 @@ ggplot(pop_edades, aes(groups, pct)) +
   geom_bar(stat = "identity", fill = "darkred")
 ```
 
-![](graphics_files/figure-markdown_github/unnamed-chunk-3-3.png) \#\#\#\# Unemployment in Santander
+![](graphics_files/figure-markdown_github/unnamed-chunk-3-3.png)
+
+#### Unemployment in Santander
 
 ``` r
 library(ggplot2)
