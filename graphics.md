@@ -49,9 +49,42 @@ ggplot(pop_edades, aes(pct, groups)) +
 ![](graphics_files/figure-markdown_github/unnamed-chunk-3-1.png)
 
 ``` r
+ggplot(pop_edades, aes(groups, pct)) +
+  geom_point(size = 3, color="darkred")
+```
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-3-2.png)
+
+``` r
 # Bar chart
 ggplot(pop_edades, aes(groups, pct)) +
   geom_bar(stat = "identity", fill = "darkred")
 ```
 
-![](graphics_files/figure-markdown_github/unnamed-chunk-3-2.png)
+![](graphics_files/figure-markdown_github/unnamed-chunk-3-3.png) \#\#\#\# Unemployment in Santander
+
+``` r
+library(ggplot2)
+library(seasonal)
+
+unemployment <- read.csv("data/desempleo_santander.csv")
+
+ggplot(unemployment, aes(date, value, group = 1)) + 
+  geom_line()
+```
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-4-1.png)
+
+``` r
+# Seasonally adjusted
+adjusted_unemployment <- ts(unemployment$value, start = c(2005, 5), end = c(2016, 10), freq = 12)
+
+# seas(adjusted_unemployment)
+# plot(adjusted_unemployment)
+# final(adjusted_unemployment)
+
+fit <- stl(adjusted_unemployment, s.window="period")
+plot(fit)
+```
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-4-2.png)

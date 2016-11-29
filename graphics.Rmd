@@ -17,6 +17,7 @@ merged <- merge(x = data, y = pop, by = "location_id", all.x = TRUE)
 ggplot(merged, aes(log(value.y), value.x, color = value.x)) +
   geom_smooth(method='lm', color="black", se = FALSE, size = 0.3) +
   geom_point(size = 5, color="darkred", alpha = 0.35)
+
 ```
 
 ### Age groups
@@ -38,9 +39,34 @@ pop_edades$groups <- factor(pop_edades$groups, levels = pop_edades$groups)
 ggplot(pop_edades, aes(pct, groups)) +
   geom_point(size = 3, color="darkred") +
   scale_y_discrete(limits = rev(levels(pop_edades$groups)))
-                   
+
+ggplot(pop_edades, aes(groups, pct)) +
+  geom_point(size = 3, color="darkred")
+
 # Bar chart
 ggplot(pop_edades, aes(groups, pct)) +
   geom_bar(stat = "identity", fill = "darkred")
 ```
+#### Unemployment in Santander
+```{r}
+library(ggplot2)
+library(seasonal)
+
+unemployment <- read.csv("data/desempleo_santander.csv")
+
+ggplot(unemployment, aes(date, value, group = 1)) + 
+  geom_line()
+
+# Seasonally adjusted
+adjusted_unemployment <- ts(unemployment$value, start = c(2005, 5), end = c(2016, 10), freq = 12)
+
+# seas(adjusted_unemployment)
+# plot(adjusted_unemployment)
+# final(adjusted_unemployment)
+
+fit <- stl(adjusted_unemployment, s.window="period")
+plot(fit)
+
+```
+
 
