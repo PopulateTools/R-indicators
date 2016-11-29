@@ -21,3 +21,37 @@ ggplot(merged, aes(log(value.y), value.x, color = value.x)) +
 ```
 
 ![](graphics_files/figure-markdown_github/unnamed-chunk-1-1.png)
+
+### Age groups
+
+#### Transform excel to csv
+
+``` bash
+in2csv --sheet Sheet1 data/pop_edades.xls > data/pop_edades.csv
+```
+
+#### Age distribution in Santander
+
+``` r
+library(ggplot2)
+
+pop_edades <- read.csv("data/pop_edades.csv")
+
+# Ordered factor
+pop_edades$groups <- factor(pop_edades$groups, levels = pop_edades$groups)
+
+# Dot plot
+ggplot(pop_edades, aes(pct, groups)) +
+  geom_point(size = 3, color="darkred") +
+  scale_y_discrete(limits = rev(levels(pop_edades$groups)))
+```
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-3-1.png)
+
+``` r
+# Bar chart
+ggplot(pop_edades, aes(groups, pct)) +
+  geom_bar(stat = "identity", fill = "darkred")
+```
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-3-2.png)
