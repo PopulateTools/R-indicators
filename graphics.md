@@ -1,7 +1,9 @@
 Indicators
 ================
 
-### Rent vs population
+### Income vs population
+
+Gross income and population in Cantabria.
 
 ``` r
 library(ggplot2)
