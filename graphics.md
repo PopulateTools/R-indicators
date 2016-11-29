@@ -1,16 +1,21 @@
-R Notebook
+Indicators
 ================
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code.
-
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*.
+### Rent vs population
 
 ``` r
-plot(cars)
+library(ggplot2)
+
+data <- read.csv("data/renta_cantabria.csv")
+pop <- read.csv("data/pop_cantabria.csv")
+
+# Merge the datasets
+merged <- merge(x = data, y = pop, by = "location_id", all.x = TRUE)
+
+# Scatterplot
+ggplot(merged, aes(log(value.y), value.x, color = value.x)) +
+  geom_smooth(method='lm', color="black", se = FALSE, size = 0.3) +
+  geom_point(size = 5, color="darkred", alpha = 0.35)
 ```
 
 ![](graphics_files/figure-markdown_github/unnamed-chunk-1-1.png)
-
-Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
-
-When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file).
