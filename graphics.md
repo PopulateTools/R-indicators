@@ -1,6 +1,8 @@
 Indicators
 ================
 
+The data is for Santander and Cantabria.
+
 ### Income vs population
 
 Gross income and population in Cantabria.
@@ -68,10 +70,31 @@ ggplot(pop_edades, aes(groups, pct)) +
 ``` r
 library(ggplot2)
 library(seasonal)
+library(zoo)
+```
 
-unemployment <- read.csv("data/desempleo_santander.csv")
+    ## 
+    ## Attaching package: 'zoo'
 
-ggplot(unemployment, aes(date, value, group = 1)) + 
+    ## The following objects are masked from 'package:base':
+    ## 
+    ##     as.Date, as.Date.numeric
+
+``` r
+# Load stuff
+pop_activa <- read.csv("data/poblacion_activa.csv")
+afiliados_ss <- read.csv("data/afiliados_ss.csv")
+parados_edad <- read.csv("data/parados_edad.csv")
+parados_edad_sexo <- read.csv("data/parados_edad_sexo.csv")
+parados_sector <- read.csv("data/parados_sector.csv")
+parados <- read.csv("data/parados.csv")
+
+# Fix dates
+parados$date <- as.Date(as.yearmon(parados$date))
+parados_edad$date <- as.Date(as.yearmon(parados_edad$date))
+parados_sector$date <- as.Date(as.yearmon(parados_sector$date))
+
+ggplot(parados, aes(date, value, group = 1)) + 
   geom_line()
 ```
 
@@ -79,7 +102,7 @@ ggplot(unemployment, aes(date, value, group = 1)) +
 
 ``` r
 # Seasonally adjusted
-adjusted_unemployment <- ts(unemployment$value, start = c(2005, 5), end = c(2016, 10), freq = 12)
+adjusted_unemployment <- ts(parados$value, start = c(2005, 5), end = c(2016, 10), freq = 12)
 
 # seas(adjusted_unemployment)
 # plot(adjusted_unemployment)
@@ -90,3 +113,23 @@ plot(fit)
 ```
 
 ![](graphics_files/figure-markdown_github/unnamed-chunk-4-2.png)
+
+``` r
+# Fix date
+
+# Parados por grupo de edad
+ggplot(parados_edad, aes(date, value, group=age_range, color=age_range)) +
+  geom_line()
+```
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-4-3.png)
+
+``` r
+# Parados por sector
+ggplot(parados_sector, aes(date, value, group=sector, color=sector)) + 
+  geom_line()
+```
+
+    ## Warning: Removed 98 rows containing missing values (geom_path).
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-4-4.png)

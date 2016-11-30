@@ -2,6 +2,8 @@
 title: "Indicators"
 output: github_document
 ---
+The data is for Santander and Cantabria.
+
 ### Income vs population
 Gross income and population in Cantabria.
 ```{r}
@@ -52,14 +54,26 @@ ggplot(pop_edades, aes(groups, pct)) +
 ```{r}
 library(ggplot2)
 library(seasonal)
+library(zoo)
 
-unemployment <- read.csv("data/desempleo_santander.csv")
+# Load stuff
+pop_activa <- read.csv("data/poblacion_activa.csv")
+afiliados_ss <- read.csv("data/afiliados_ss.csv")
+parados_edad <- read.csv("data/parados_edad.csv")
+parados_edad_sexo <- read.csv("data/parados_edad_sexo.csv")
+parados_sector <- read.csv("data/parados_sector.csv")
+parados <- read.csv("data/parados.csv")
 
-ggplot(unemployment, aes(date, value, group = 1)) + 
+# Fix dates
+parados$date <- as.Date(as.yearmon(parados$date))
+parados_edad$date <- as.Date(as.yearmon(parados_edad$date))
+parados_sector$date <- as.Date(as.yearmon(parados_sector$date))
+
+ggplot(parados, aes(date, value, group = 1)) + 
   geom_line()
 
 # Seasonally adjusted
-adjusted_unemployment <- ts(unemployment$value, start = c(2005, 5), end = c(2016, 10), freq = 12)
+adjusted_unemployment <- ts(parados$value, start = c(2005, 5), end = c(2016, 10), freq = 12)
 
 # seas(adjusted_unemployment)
 # plot(adjusted_unemployment)
@@ -67,6 +81,16 @@ adjusted_unemployment <- ts(unemployment$value, start = c(2005, 5), end = c(2016
 
 fit <- stl(adjusted_unemployment, s.window="period")
 plot(fit)
+
+# Fix date
+
+# Parados por grupo de edad
+ggplot(parados_edad, aes(date, value, group=age_range, color=age_range)) +
+  geom_line()
+
+# Parados por sector
+ggplot(parados_sector, aes(date, value, group=sector, color=sector)) + 
+  geom_line()
 
 ```
 
