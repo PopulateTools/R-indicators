@@ -1,5 +1,5 @@
 value,location_id,date,province_id,autonomous_region_id,sector,_id
-,39075,2005-05,39,6,Sin empleo anterior,39075/2005-05-01/sin-empleo-anterior
+1028,39075,2005-05,39,6,Sin empleo anterior,39075/2005-05-01/sin-empleo-anterior
 787,39075,2005-05,39,6,Industria,39075/2005-05-01/industria
 76,39075,2005-05,39,6,Agricultura,39075/2005-05-01/agricultura
 1032,39075,2005-05,39,6,Construcción,39075/2005-05-01/construccion
@@ -8,13 +8,13 @@ value,location_id,date,province_id,autonomous_region_id,sector,_id
 980,39075,2005-06,39,6,Construcción,39075/2005-06-01/construccion
 5512,39075,2005-06,39,6,Servicios,39075/2005-06-01/servicios
 77,39075,2005-06,39,6,Agricultura,39075/2005-06-01/agricultura
-,39075,2005-06,39,6,Sin empleo anterior,39075/2005-06-01/sin-empleo-anterior
+1020,39075,2005-06,39,6,Sin empleo anterior,39075/2005-06-01/sin-empleo-anterior
 84,39075,2005-07,39,6,Agricultura,39075/2005-07-01/agricultura
 740,39075,2005-07,39,6,Industria,39075/2005-07-01/industria
 5310,39075,2005-07,39,6,Servicios,39075/2005-07-01/servicios
-,39075,2005-07,39,6,Sin empleo anterior,39075/2005-07-01/sin-empleo-anterior
+959,39075,2005-07,39,6,Sin empleo anterior,39075/2005-07-01/sin-empleo-anterior
 961,39075,2005-07,39,6,Construcción,39075/2005-07-01/construccion
-,39075,2005-08,39,6,Sin empleo anterior,39075/2005-08-01/sin-empleo-anterior
+928,39075,2005-08,39,6,Sin empleo anterior,39075/2005-08-01/sin-empleo-anterior
 5266,39075,2005-08,39,6,Servicios,39075/2005-08-01/servicios
 80,39075,2005-08,39,6,Agricultura,39075/2005-08-01/agricultura
 736,39075,2005-08,39,6,Industria,39075/2005-08-01/industria
@@ -23,54 +23,54 @@ value,location_id,date,province_id,autonomous_region_id,sector,_id
 713,39075,2005-09,39,6,Industria,39075/2005-09-01/industria
 878,39075,2005-09,39,6,Construcción,39075/2005-09-01/construccion
 5367,39075,2005-09,39,6,Servicios,39075/2005-09-01/servicios
-,39075,2005-09,39,6,Sin empleo anterior,39075/2005-09-01/sin-empleo-anterior
+999,39075,2005-09,39,6,Sin empleo anterior,39075/2005-09-01/sin-empleo-anterior
 730,39075,2005-10,39,6,Industria,39075/2005-10-01/industria
-,39075,2005-10,39,6,Sin empleo anterior,39075/2005-10-01/sin-empleo-anterior
+939,39075,2005-10,39,6,Sin empleo anterior,39075/2005-10-01/sin-empleo-anterior
 926,39075,2005-10,39,6,Construcción,39075/2005-10-01/construccion
 79,39075,2005-10,39,6,Agricultura,39075/2005-10-01/agricultura
 5742,39075,2005-10,39,6,Servicios,39075/2005-10-01/servicios
 774,39075,2005-11,39,6,Industria,39075/2005-11-01/industria
 5601,39075,2005-11,39,6,Servicios,39075/2005-11-01/servicios
 80,39075,2005-11,39,6,Agricultura,39075/2005-11-01/agricultura
-,39075,2005-11,39,6,Sin empleo anterior,39075/2005-11-01/sin-empleo-anterior
+892,39075,2005-11,39,6,Sin empleo anterior,39075/2005-11-01/sin-empleo-anterior
 1023,39075,2005-11,39,6,Construcción,39075/2005-11-01/construccion
 88,39075,2005-12,39,6,Agricultura,39075/2005-12-01/agricultura
 1094,39075,2005-12,39,6,Construcción,39075/2005-12-01/construccion
-,39075,2005-12,39,6,Sin empleo anterior,39075/2005-12-01/sin-empleo-anterior
+804,39075,2005-12,39,6,Sin empleo anterior,39075/2005-12-01/sin-empleo-anterior
 5520,39075,2005-12,39,6,Servicios,39075/2005-12-01/servicios
 783,39075,2005-12,39,6,Industria,39075/2005-12-01/industria
 821,39075,2006-01,39,6,Industria,39075/2006-01-01/industria
 97,39075,2006-01,39,6,Agricultura,39075/2006-01-01/agricultura
 5996,39075,2006-01,39,6,Servicios,39075/2006-01-01/servicios
 1170,39075,2006-01,39,6,Construcción,39075/2006-01-01/construccion
-,39075,2006-01,39,6,Sin empleo anterior,39075/2006-01-01/sin-empleo-anterior
+826,39075,2006-01,39,6,Sin empleo anterior,39075/2006-01-01/sin-empleo-anterior
 798,39075,2006-02,39,6,Industria,39075/2006-02-01/industria
 85,39075,2006-02,39,6,Agricultura,39075/2006-02-01/agricultura
 1170,39075,2006-02,39,6,Construcción,39075/2006-02-01/construccion
 5958,39075,2006-02,39,6,Servicios,39075/2006-02-01/servicios
-,39075,2006-02,39,6,Sin empleo anterior,39075/2006-02-01/sin-empleo-anterior
+830,39075,2006-02,39,6,Sin empleo anterior,39075/2006-02-01/sin-empleo-anterior
 5668,39075,2006-03,39,6,Servicios,39075/2006-03-01/servicios
 81,39075,2006-03,39,6,Agricultura,39075/2006-03-01/agricultura
-,39075,2006-03,39,6,Sin empleo anterior,39075/2006-03-01/sin-empleo-anterior
+810,39075,2006-03,39,6,Sin empleo anterior,39075/2006-03-01/sin-empleo-anterior
 763,39075,2006-03,39,6,Industria,39075/2006-03-01/industria
 1177,39075,2006-03,39,6,Construcción,39075/2006-03-01/construccion
 1130,39075,2006-04,39,6,Construcción,39075/2006-04-01/construccion
 5399,39075,2006-04,39,6,Servicios,39075/2006-04-01/servicios
 72,39075,2006-04,39,6,Agricultura,39075/2006-04-01/agricultura
 747,39075,2006-04,39,6,Industria,39075/2006-04-01/industria
-,39075,2006-04,39,6,Sin empleo anterior,39075/2006-04-01/sin-empleo-anterior
+808,39075,2006-04,39,6,Sin empleo anterior,39075/2006-04-01/sin-empleo-anterior
 66,39075,2006-05,39,6,Agricultura,39075/2006-05-01/agricultura
-,39075,2006-05,39,6,Sin empleo anterior,39075/2006-05-01/sin-empleo-anterior
+757,39075,2006-05,39,6,Sin empleo anterior,39075/2006-05-01/sin-empleo-anterior
 705,39075,2006-05,39,6,Industria,39075/2006-05-01/industria
 1006,39075,2006-05,39,6,Construcción,39075/2006-05-01/construccion
 5097,39075,2006-05,39,6,Servicios,39075/2006-05-01/servicios
 1007,39075,2006-06,39,6,Construcción,39075/2006-06-01/construccion
 59,39075,2006-06,39,6,Agricultura,39075/2006-06-01/agricultura
 659,39075,2006-06,39,6,Industria,39075/2006-06-01/industria
-,39075,2006-06,39,6,Sin empleo anterior,39075/2006-06-01/sin-empleo-anterior
+733,39075,2006-06,39,6,Sin empleo anterior,39075/2006-06-01/sin-empleo-anterior
 4755,39075,2006-06,39,6,Servicios,39075/2006-06-01/servicios
 935,39075,2006-07,39,6,Construcción,39075/2006-07-01/construccion
-,39075,2006-07,39,6,Sin empleo anterior,39075/2006-07-01/sin-empleo-anterior
+690,39075,2006-07,39,6,Sin empleo anterior,39075/2006-07-01/sin-empleo-anterior
 652,39075,2006-07,39,6,Industria,39075/2006-07-01/industria
 71,39075,2006-07,39,6,Agricultura,39075/2006-07-01/agricultura
 4520,39075,2006-07,39,6,Servicios,39075/2006-07-01/servicios
@@ -78,48 +78,48 @@ value,location_id,date,province_id,autonomous_region_id,sector,_id
 650,39075,2006-08,39,6,Industria,39075/2006-08-01/industria
 4528,39075,2006-08,39,6,Servicios,39075/2006-08-01/servicios
 971,39075,2006-08,39,6,Construcción,39075/2006-08-01/construccion
-,39075,2006-08,39,6,Sin empleo anterior,39075/2006-08-01/sin-empleo-anterior
+669,39075,2006-08,39,6,Sin empleo anterior,39075/2006-08-01/sin-empleo-anterior
 62,39075,2006-09,39,6,Agricultura,39075/2006-09-01/agricultura
 641,39075,2006-09,39,6,Industria,39075/2006-09-01/industria
 4662,39075,2006-09,39,6,Servicios,39075/2006-09-01/servicios
 958,39075,2006-09,39,6,Construcción,39075/2006-09-01/construccion
-,39075,2006-09,39,6,Sin empleo anterior,39075/2006-09-01/sin-empleo-anterior
+666,39075,2006-09,39,6,Sin empleo anterior,39075/2006-09-01/sin-empleo-anterior
 974,39075,2006-10,39,6,Construcción,39075/2006-10-01/construccion
 4872,39075,2006-10,39,6,Servicios,39075/2006-10-01/servicios
-,39075,2006-10,39,6,Sin empleo anterior,39075/2006-10-01/sin-empleo-anterior
+671,39075,2006-10,39,6,Sin empleo anterior,39075/2006-10-01/sin-empleo-anterior
 50,39075,2006-10,39,6,Agricultura,39075/2006-10-01/agricultura
 598,39075,2006-10,39,6,Industria,39075/2006-10-01/industria
-,39075,2006-11,39,6,Sin empleo anterior,39075/2006-11-01/sin-empleo-anterior
+648,39075,2006-11,39,6,Sin empleo anterior,39075/2006-11-01/sin-empleo-anterior
 624,39075,2006-11,39,6,Industria,39075/2006-11-01/industria
 4890,39075,2006-11,39,6,Servicios,39075/2006-11-01/servicios
 50,39075,2006-11,39,6,Agricultura,39075/2006-11-01/agricultura
 1028,39075,2006-11,39,6,Construcción,39075/2006-11-01/construccion
 636,39075,2006-12,39,6,Industria,39075/2006-12-01/industria
-,39075,2006-12,39,6,Sin empleo anterior,39075/2006-12-01/sin-empleo-anterior
+620,39075,2006-12,39,6,Sin empleo anterior,39075/2006-12-01/sin-empleo-anterior
 51,39075,2006-12,39,6,Agricultura,39075/2006-12-01/agricultura
 4917,39075,2006-12,39,6,Servicios,39075/2006-12-01/servicios
 1090,39075,2006-12,39,6,Construcción,39075/2006-12-01/construccion
 1140,39075,2007-01,39,6,Construcción,39075/2007-01-01/construccion
 5253,39075,2007-01,39,6,Servicios,39075/2007-01-01/servicios
-,39075,2007-01,39,6,Sin empleo anterior,39075/2007-01-01/sin-empleo-anterior
+632,39075,2007-01,39,6,Sin empleo anterior,39075/2007-01-01/sin-empleo-anterior
 53,39075,2007-01,39,6,Agricultura,39075/2007-01-01/agricultura
 656,39075,2007-01,39,6,Industria,39075/2007-01-01/industria
 650,39075,2007-02,39,6,Industria,39075/2007-02-01/industria
 1145,39075,2007-02,39,6,Construcción,39075/2007-02-01/construccion
-,39075,2007-02,39,6,Sin empleo anterior,39075/2007-02-01/sin-empleo-anterior
+644,39075,2007-02,39,6,Sin empleo anterior,39075/2007-02-01/sin-empleo-anterior
 52,39075,2007-02,39,6,Agricultura,39075/2007-02-01/agricultura
 5217,39075,2007-02,39,6,Servicios,39075/2007-02-01/servicios
 5144,39075,2007-03,39,6,Servicios,39075/2007-03-01/servicios
-,39075,2007-03,39,6,Sin empleo anterior,39075/2007-03-01/sin-empleo-anterior
+628,39075,2007-03,39,6,Sin empleo anterior,39075/2007-03-01/sin-empleo-anterior
 1087,39075,2007-03,39,6,Construcción,39075/2007-03-01/construccion
 51,39075,2007-03,39,6,Agricultura,39075/2007-03-01/agricultura
 639,39075,2007-03,39,6,Industria,39075/2007-03-01/industria
-,39075,2007-04,39,6,Sin empleo anterior,39075/2007-04-01/sin-empleo-anterior
+610,39075,2007-04,39,6,Sin empleo anterior,39075/2007-04-01/sin-empleo-anterior
 1040,39075,2007-04,39,6,Construcción,39075/2007-04-01/construccion
 49,39075,2007-04,39,6,Agricultura,39075/2007-04-01/agricultura
 4983,39075,2007-04,39,6,Servicios,39075/2007-04-01/servicios
 619,39075,2007-04,39,6,Industria,39075/2007-04-01/industria
-,39075,2007-05,39,6,Sin empleo anterior,39075/2007-05-01/sin-empleo-anterior
+574,39075,2007-05,39,6,Sin empleo anterior,39075/2007-05-01/sin-empleo-anterior
 47,39075,2007-05,39,6,Agricultura,39075/2007-05-01/agricultura
 581,39075,2007-05,39,6,Industria,39075/2007-05-01/industria
 4769,39075,2007-05,39,6,Servicios,39075/2007-05-01/servicios
@@ -128,169 +128,169 @@ value,location_id,date,province_id,autonomous_region_id,sector,_id
 577,39075,2007-06,39,6,Industria,39075/2007-06-01/industria
 970,39075,2007-06,39,6,Construcción,39075/2007-06-01/construccion
 4444,39075,2007-06,39,6,Servicios,39075/2007-06-01/servicios
-,39075,2007-06,39,6,Sin empleo anterior,39075/2007-06-01/sin-empleo-anterior
+564,39075,2007-06,39,6,Sin empleo anterior,39075/2007-06-01/sin-empleo-anterior
 4258,39075,2007-07,39,6,Servicios,39075/2007-07-01/servicios
 48,39075,2007-07,39,6,Agricultura,39075/2007-07-01/agricultura
 974,39075,2007-07,39,6,Construcción,39075/2007-07-01/construccion
-,39075,2007-07,39,6,Sin empleo anterior,39075/2007-07-01/sin-empleo-anterior
+567,39075,2007-07,39,6,Sin empleo anterior,39075/2007-07-01/sin-empleo-anterior
 608,39075,2007-07,39,6,Industria,39075/2007-07-01/industria
 54,39075,2007-08,39,6,Agricultura,39075/2007-08-01/agricultura
 638,39075,2007-08,39,6,Industria,39075/2007-08-01/industria
 1048,39075,2007-08,39,6,Construcción,39075/2007-08-01/construccion
 4332,39075,2007-08,39,6,Servicios,39075/2007-08-01/servicios
-,39075,2007-08,39,6,Sin empleo anterior,39075/2007-08-01/sin-empleo-anterior
+574,39075,2007-08,39,6,Sin empleo anterior,39075/2007-08-01/sin-empleo-anterior
 627,39075,2007-09,39,6,Industria,39075/2007-09-01/industria
 4334,39075,2007-09,39,6,Servicios,39075/2007-09-01/servicios
 57,39075,2007-09,39,6,Agricultura,39075/2007-09-01/agricultura
 1039,39075,2007-09,39,6,Construcción,39075/2007-09-01/construccion
-,39075,2007-09,39,6,Sin empleo anterior,39075/2007-09-01/sin-empleo-anterior
+604,39075,2007-09,39,6,Sin empleo anterior,39075/2007-09-01/sin-empleo-anterior
 57,39075,2007-10,39,6,Agricultura,39075/2007-10-01/agricultura
 672,39075,2007-10,39,6,Industria,39075/2007-10-01/industria
 4576,39075,2007-10,39,6,Servicios,39075/2007-10-01/servicios
-,39075,2007-10,39,6,Sin empleo anterior,39075/2007-10-01/sin-empleo-anterior
+610,39075,2007-10,39,6,Sin empleo anterior,39075/2007-10-01/sin-empleo-anterior
 1084,39075,2007-10,39,6,Construcción,39075/2007-10-01/construccion
 1119,39075,2007-11,39,6,Construcción,39075/2007-11-01/construccion
 62,39075,2007-11,39,6,Agricultura,39075/2007-11-01/agricultura
 686,39075,2007-11,39,6,Industria,39075/2007-11-01/industria
 4657,39075,2007-11,39,6,Servicios,39075/2007-11-01/servicios
-,39075,2007-11,39,6,Sin empleo anterior,39075/2007-11-01/sin-empleo-anterior
+605,39075,2007-11,39,6,Sin empleo anterior,39075/2007-11-01/sin-empleo-anterior
 716,39075,2007-12,39,6,Industria,39075/2007-12-01/industria
 62,39075,2007-12,39,6,Agricultura,39075/2007-12-01/agricultura
 1227,39075,2007-12,39,6,Construcción,39075/2007-12-01/construccion
 4619,39075,2007-12,39,6,Servicios,39075/2007-12-01/servicios
-,39075,2007-12,39,6,Sin empleo anterior,39075/2007-12-01/sin-empleo-anterior
+587,39075,2007-12,39,6,Sin empleo anterior,39075/2007-12-01/sin-empleo-anterior
 68,39075,2008-01,39,6,Agricultura,39075/2008-01-01/agricultura
 1230,39075,2008-01,39,6,Construcción,39075/2008-01-01/construccion
 5299,39075,2008-01,39,6,Servicios,39075/2008-01-01/servicios
 711,39075,2008-01,39,6,Industria,39075/2008-01-01/industria
-,39075,2008-01,39,6,Sin empleo anterior,39075/2008-01-01/sin-empleo-anterior
+613,39075,2008-01,39,6,Sin empleo anterior,39075/2008-01-01/sin-empleo-anterior
 67,39075,2008-02,39,6,Agricultura,39075/2008-02-01/agricultura
 1256,39075,2008-02,39,6,Construcción,39075/2008-02-01/construccion
 5320,39075,2008-02,39,6,Servicios,39075/2008-02-01/servicios
 716,39075,2008-02,39,6,Industria,39075/2008-02-01/industria
-,39075,2008-02,39,6,Sin empleo anterior,39075/2008-02-01/sin-empleo-anterior
+636,39075,2008-02,39,6,Sin empleo anterior,39075/2008-02-01/sin-empleo-anterior
 69,39075,2008-03,39,6,Agricultura,39075/2008-03-01/agricultura
 1241,39075,2008-03,39,6,Construcción,39075/2008-03-01/construccion
-,39075,2008-03,39,6,Sin empleo anterior,39075/2008-03-01/sin-empleo-anterior
+634,39075,2008-03,39,6,Sin empleo anterior,39075/2008-03-01/sin-empleo-anterior
 682,39075,2008-03,39,6,Industria,39075/2008-03-01/industria
 5229,39075,2008-03,39,6,Servicios,39075/2008-03-01/servicios
 1241,39075,2008-04,39,6,Construcción,39075/2008-04-01/construccion
 5229,39075,2008-04,39,6,Servicios,39075/2008-04-01/servicios
-,39075,2008-04,39,6,Sin empleo anterior,39075/2008-04-01/sin-empleo-anterior
+634,39075,2008-04,39,6,Sin empleo anterior,39075/2008-04-01/sin-empleo-anterior
 69,39075,2008-04,39,6,Agricultura,39075/2008-04-01/agricultura
 682,39075,2008-04,39,6,Industria,39075/2008-04-01/industria
 67,39075,2008-05,39,6,Agricultura,39075/2008-05-01/agricultura
 1316,39075,2008-05,39,6,Construcción,39075/2008-05-01/construccion
 715,39075,2008-05,39,6,Industria,39075/2008-05-01/industria
 5079,39075,2008-05,39,6,Servicios,39075/2008-05-01/servicios
-,39075,2008-05,39,6,Sin empleo anterior,39075/2008-05-01/sin-empleo-anterior
+655,39075,2008-05,39,6,Sin empleo anterior,39075/2008-05-01/sin-empleo-anterior
 75,39075,2008-06,39,6,Agricultura,39075/2008-06-01/agricultura
-,39075,2008-06,39,6,Sin empleo anterior,39075/2008-06-01/sin-empleo-anterior
+639,39075,2008-06,39,6,Sin empleo anterior,39075/2008-06-01/sin-empleo-anterior
 1333,39075,2008-06,39,6,Construcción,39075/2008-06-01/construccion
 706,39075,2008-06,39,6,Industria,39075/2008-06-01/industria
 4851,39075,2008-06,39,6,Servicios,39075/2008-06-01/servicios
 689,39075,2008-07,39,6,Industria,39075/2008-07-01/industria
-,39075,2008-07,39,6,Sin empleo anterior,39075/2008-07-01/sin-empleo-anterior
+616,39075,2008-07,39,6,Sin empleo anterior,39075/2008-07-01/sin-empleo-anterior
 1428,39075,2008-07,39,6,Construcción,39075/2008-07-01/construccion
 70,39075,2008-07,39,6,Agricultura,39075/2008-07-01/agricultura
 4920,39075,2008-07,39,6,Servicios,39075/2008-07-01/servicios
-,39075,2008-08,39,6,Sin empleo anterior,39075/2008-08-01/sin-empleo-anterior
+576,39075,2008-08,39,6,Sin empleo anterior,39075/2008-08-01/sin-empleo-anterior
 695,39075,2008-08,39,6,Industria,39075/2008-08-01/industria
 5068,39075,2008-08,39,6,Servicios,39075/2008-08-01/servicios
 72,39075,2008-08,39,6,Agricultura,39075/2008-08-01/agricultura
 1535,39075,2008-08,39,6,Construcción,39075/2008-08-01/construccion
 5369,39075,2008-09,39,6,Servicios,39075/2008-09-01/servicios
-,39075,2008-09,39,6,Sin empleo anterior,39075/2008-09-01/sin-empleo-anterior
+590,39075,2008-09,39,6,Sin empleo anterior,39075/2008-09-01/sin-empleo-anterior
 1717,39075,2008-09,39,6,Construcción,39075/2008-09-01/construccion
 74,39075,2008-09,39,6,Agricultura,39075/2008-09-01/agricultura
 692,39075,2008-09,39,6,Industria,39075/2008-09-01/industria
 746,39075,2008-10,39,6,Industria,39075/2008-10-01/industria
 1977,39075,2008-10,39,6,Construcción,39075/2008-10-01/construccion
 5939,39075,2008-10,39,6,Servicios,39075/2008-10-01/servicios
-,39075,2008-10,39,6,Sin empleo anterior,39075/2008-10-01/sin-empleo-anterior
+620,39075,2008-10,39,6,Sin empleo anterior,39075/2008-10-01/sin-empleo-anterior
 85,39075,2008-10,39,6,Agricultura,39075/2008-10-01/agricultura
 96,39075,2008-11,39,6,Agricultura,39075/2008-11-01/agricultura
 2264,39075,2008-11,39,6,Construcción,39075/2008-11-01/construccion
 6378,39075,2008-11,39,6,Servicios,39075/2008-11-01/servicios
 926,39075,2008-11,39,6,Industria,39075/2008-11-01/industria
-,39075,2008-11,39,6,Sin empleo anterior,39075/2008-11-01/sin-empleo-anterior
+662,39075,2008-11,39,6,Sin empleo anterior,39075/2008-11-01/sin-empleo-anterior
 2451,39075,2008-12,39,6,Construcción,39075/2008-12-01/construccion
 6420,39075,2008-12,39,6,Servicios,39075/2008-12-01/servicios
-,39075,2008-12,39,6,Sin empleo anterior,39075/2008-12-01/sin-empleo-anterior
+644,39075,2008-12,39,6,Sin empleo anterior,39075/2008-12-01/sin-empleo-anterior
 1013,39075,2008-12,39,6,Industria,39075/2008-12-01/industria
 93,39075,2008-12,39,6,Agricultura,39075/2008-12-01/agricultura
 2512,39075,2009-01,39,6,Construcción,39075/2009-01-01/construccion
 7309,39075,2009-01,39,6,Servicios,39075/2009-01-01/servicios
-,39075,2009-01,39,6,Sin empleo anterior,39075/2009-01-01/sin-empleo-anterior
+580,39075,2009-01,39,6,Sin empleo anterior,39075/2009-01-01/sin-empleo-anterior
 95,39075,2009-01,39,6,Agricultura,39075/2009-01-01/agricultura
 924,39075,2009-01,39,6,Industria,39075/2009-01-01/industria
 1005,39075,2009-02,39,6,Industria,39075/2009-02-01/industria
 2581,39075,2009-02,39,6,Construcción,39075/2009-02-01/construccion
-,39075,2009-02,39,6,Sin empleo anterior,39075/2009-02-01/sin-empleo-anterior
+595,39075,2009-02,39,6,Sin empleo anterior,39075/2009-02-01/sin-empleo-anterior
 84,39075,2009-02,39,6,Agricultura,39075/2009-02-01/agricultura
 7473,39075,2009-02,39,6,Servicios,39075/2009-02-01/servicios
-,39075,2009-03,39,6,Sin empleo anterior,39075/2009-03-01/sin-empleo-anterior
+661,39075,2009-03,39,6,Sin empleo anterior,39075/2009-03-01/sin-empleo-anterior
 1054,39075,2009-03,39,6,Industria,39075/2009-03-01/industria
 92,39075,2009-03,39,6,Agricultura,39075/2009-03-01/agricultura
 2666,39075,2009-03,39,6,Construcción,39075/2009-03-01/construccion
 7727,39075,2009-03,39,6,Servicios,39075/2009-03-01/servicios
 2680,39075,2009-04,39,6,Construcción,39075/2009-04-01/construccion
-,39075,2009-04,39,6,Sin empleo anterior,39075/2009-04-01/sin-empleo-anterior
+711,39075,2009-04,39,6,Sin empleo anterior,39075/2009-04-01/sin-empleo-anterior
 91,39075,2009-04,39,6,Agricultura,39075/2009-04-01/agricultura
 1113,39075,2009-04,39,6,Industria,39075/2009-04-01/industria
 7722,39075,2009-04,39,6,Servicios,39075/2009-04-01/servicios
 90,39075,2009-05,39,6,Agricultura,39075/2009-05-01/agricultura
 1110,39075,2009-05,39,6,Industria,39075/2009-05-01/industria
 2560,39075,2009-05,39,6,Construcción,39075/2009-05-01/construccion
-,39075,2009-05,39,6,Sin empleo anterior,39075/2009-05-01/sin-empleo-anterior
+729,39075,2009-05,39,6,Sin empleo anterior,39075/2009-05-01/sin-empleo-anterior
 7581,39075,2009-05,39,6,Servicios,39075/2009-05-01/servicios
 2430,39075,2009-06,39,6,Construcción,39075/2009-06-01/construccion
 7202,39075,2009-06,39,6,Servicios,39075/2009-06-01/servicios
 88,39075,2009-06,39,6,Agricultura,39075/2009-06-01/agricultura
 1066,39075,2009-06,39,6,Industria,39075/2009-06-01/industria
-,39075,2009-06,39,6,Sin empleo anterior,39075/2009-06-01/sin-empleo-anterior
+689,39075,2009-06,39,6,Sin empleo anterior,39075/2009-06-01/sin-empleo-anterior
 7010,39075,2009-07,39,6,Servicios,39075/2009-07-01/servicios
 1019,39075,2009-07,39,6,Industria,39075/2009-07-01/industria
 2378,39075,2009-07,39,6,Construcción,39075/2009-07-01/construccion
 88,39075,2009-07,39,6,Agricultura,39075/2009-07-01/agricultura
-,39075,2009-07,39,6,Sin empleo anterior,39075/2009-07-01/sin-empleo-anterior
+664,39075,2009-07,39,6,Sin empleo anterior,39075/2009-07-01/sin-empleo-anterior
 1041,39075,2009-08,39,6,Industria,39075/2009-08-01/industria
 7258,39075,2009-08,39,6,Servicios,39075/2009-08-01/servicios
-,39075,2009-08,39,6,Sin empleo anterior,39075/2009-08-01/sin-empleo-anterior
+672,39075,2009-08,39,6,Sin empleo anterior,39075/2009-08-01/sin-empleo-anterior
 95,39075,2009-08,39,6,Agricultura,39075/2009-08-01/agricultura
 2367,39075,2009-08,39,6,Construcción,39075/2009-08-01/construccion
 2401,39075,2009-09,39,6,Construcción,39075/2009-09-01/construccion
-,39075,2009-09,39,6,Sin empleo anterior,39075/2009-09-01/sin-empleo-anterior
+714,39075,2009-09,39,6,Sin empleo anterior,39075/2009-09-01/sin-empleo-anterior
 93,39075,2009-09,39,6,Agricultura,39075/2009-09-01/agricultura
 1068,39075,2009-09,39,6,Industria,39075/2009-09-01/industria
 7710,39075,2009-09,39,6,Servicios,39075/2009-09-01/servicios
 95,39075,2009-10,39,6,Agricultura,39075/2009-10-01/agricultura
 2463,39075,2009-10,39,6,Construcción,39075/2009-10-01/construccion
 8168,39075,2009-10,39,6,Servicios,39075/2009-10-01/servicios
-,39075,2009-10,39,6,Sin empleo anterior,39075/2009-10-01/sin-empleo-anterior
+715,39075,2009-10,39,6,Sin empleo anterior,39075/2009-10-01/sin-empleo-anterior
 1067,39075,2009-10,39,6,Industria,39075/2009-10-01/industria
 1101,39075,2009-11,39,6,Industria,39075/2009-11-01/industria
 8518,39075,2009-11,39,6,Servicios,39075/2009-11-01/servicios
 96,39075,2009-11,39,6,Agricultura,39075/2009-11-01/agricultura
 2532,39075,2009-11,39,6,Construcción,39075/2009-11-01/construccion
-,39075,2009-11,39,6,Sin empleo anterior,39075/2009-11-01/sin-empleo-anterior
+719,39075,2009-11,39,6,Sin empleo anterior,39075/2009-11-01/sin-empleo-anterior
 8685,39075,2009-12,39,6,Servicios,39075/2009-12-01/servicios
 1130,39075,2009-12,39,6,Industria,39075/2009-12-01/industria
-,39075,2009-12,39,6,Sin empleo anterior,39075/2009-12-01/sin-empleo-anterior
+703,39075,2009-12,39,6,Sin empleo anterior,39075/2009-12-01/sin-empleo-anterior
 100,39075,2009-12,39,6,Agricultura,39075/2009-12-01/agricultura
 2718,39075,2009-12,39,6,Construcción,39075/2009-12-01/construccion
 2723,39075,2010-01,39,6,Construcción,39075/2010-01-01/construccion
 106,39075,2010-01,39,6,Agricultura,39075/2010-01-01/agricultura
 1124,39075,2010-01,39,6,Industria,39075/2010-01-01/industria
 9053,39075,2010-01,39,6,Servicios,39075/2010-01-01/servicios
-,39075,2010-01,39,6,Sin empleo anterior,39075/2010-01-01/sin-empleo-anterior
+708,39075,2010-01,39,6,Sin empleo anterior,39075/2010-01-01/sin-empleo-anterior
 2739,39075,2010-02,39,6,Construcción,39075/2010-02-01/construccion
 9293,39075,2010-02,39,6,Servicios,39075/2010-02-01/servicios
-,39075,2010-02,39,6,Sin empleo anterior,39075/2010-02-01/sin-empleo-anterior
+769,39075,2010-02,39,6,Sin empleo anterior,39075/2010-02-01/sin-empleo-anterior
 106,39075,2010-02,39,6,Agricultura,39075/2010-02-01/agricultura
 1101,39075,2010-02,39,6,Industria,39075/2010-02-01/industria
 1071,39075,2010-03,39,6,Industria,39075/2010-03-01/industria
-,39075,2010-03,39,6,Sin empleo anterior,39075/2010-03-01/sin-empleo-anterior
+812,39075,2010-03,39,6,Sin empleo anterior,39075/2010-03-01/sin-empleo-anterior
 109,39075,2010-03,39,6,Agricultura,39075/2010-03-01/agricultura
 2717,39075,2010-03,39,6,Construcción,39075/2010-03-01/construccion
 9367,39075,2010-03,39,6,Servicios,39075/2010-03-01/servicios
@@ -298,14 +298,14 @@ value,location_id,date,province_id,autonomous_region_id,sector,_id
 2722,39075,2010-04,39,6,Construcción,39075/2010-04-01/construccion
 112,39075,2010-04,39,6,Agricultura,39075/2010-04-01/agricultura
 1069,39075,2010-04,39,6,Industria,39075/2010-04-01/industria
-,39075,2010-04,39,6,Sin empleo anterior,39075/2010-04-01/sin-empleo-anterior
-,39075,2010-05,39,6,Sin empleo anterior,39075/2010-05-01/sin-empleo-anterior
+847,39075,2010-04,39,6,Sin empleo anterior,39075/2010-04-01/sin-empleo-anterior
+848,39075,2010-05,39,6,Sin empleo anterior,39075/2010-05-01/sin-empleo-anterior
 1017,39075,2010-05,39,6,Industria,39075/2010-05-01/industria
 2639,39075,2010-05,39,6,Construcción,39075/2010-05-01/construccion
 114,39075,2010-05,39,6,Agricultura,39075/2010-05-01/agricultura
 9081,39075,2010-05,39,6,Servicios,39075/2010-05-01/servicios
 114,39075,2010-06,39,6,Agricultura,39075/2010-06-01/agricultura
-,39075,2010-06,39,6,Sin empleo anterior,39075/2010-06-01/sin-empleo-anterior
+824,39075,2010-06,39,6,Sin empleo anterior,39075/2010-06-01/sin-empleo-anterior
 2482,39075,2010-06,39,6,Construcción,39075/2010-06-01/construccion
 8610,39075,2010-06,39,6,Servicios,39075/2010-06-01/servicios
 966,39075,2010-06,39,6,Industria,39075/2010-06-01/industria
@@ -313,379 +313,379 @@ value,location_id,date,province_id,autonomous_region_id,sector,_id
 907,39075,2010-07,39,6,Industria,39075/2010-07-01/industria
 109,39075,2010-07,39,6,Agricultura,39075/2010-07-01/agricultura
 2393,39075,2010-07,39,6,Construcción,39075/2010-07-01/construccion
-,39075,2010-07,39,6,Sin empleo anterior,39075/2010-07-01/sin-empleo-anterior
+792,39075,2010-07,39,6,Sin empleo anterior,39075/2010-07-01/sin-empleo-anterior
 916,39075,2010-08,39,6,Industria,39075/2010-08-01/industria
 107,39075,2010-08,39,6,Agricultura,39075/2010-08-01/agricultura
 8342,39075,2010-08,39,6,Servicios,39075/2010-08-01/servicios
-,39075,2010-08,39,6,Sin empleo anterior,39075/2010-08-01/sin-empleo-anterior
+777,39075,2010-08,39,6,Sin empleo anterior,39075/2010-08-01/sin-empleo-anterior
 2382,39075,2010-08,39,6,Construcción,39075/2010-08-01/construccion
 103,39075,2010-09,39,6,Agricultura,39075/2010-09-01/agricultura
 8749,39075,2010-09,39,6,Servicios,39075/2010-09-01/servicios
-,39075,2010-09,39,6,Sin empleo anterior,39075/2010-09-01/sin-empleo-anterior
+829,39075,2010-09,39,6,Sin empleo anterior,39075/2010-09-01/sin-empleo-anterior
 934,39075,2010-09,39,6,Industria,39075/2010-09-01/industria
 2399,39075,2010-09,39,6,Construcción,39075/2010-09-01/construccion
 974,39075,2010-10,39,6,Industria,39075/2010-10-01/industria
 2381,39075,2010-10,39,6,Construcción,39075/2010-10-01/construccion
-,39075,2010-10,39,6,Sin empleo anterior,39075/2010-10-01/sin-empleo-anterior
+829,39075,2010-10,39,6,Sin empleo anterior,39075/2010-10-01/sin-empleo-anterior
 9151,39075,2010-10,39,6,Servicios,39075/2010-10-01/servicios
 102,39075,2010-10,39,6,Agricultura,39075/2010-10-01/agricultura
 953,39075,2010-11,39,6,Industria,39075/2010-11-01/industria
 9212,39075,2010-11,39,6,Servicios,39075/2010-11-01/servicios
 108,39075,2010-11,39,6,Agricultura,39075/2010-11-01/agricultura
 2397,39075,2010-11,39,6,Construcción,39075/2010-11-01/construccion
-,39075,2010-11,39,6,Sin empleo anterior,39075/2010-11-01/sin-empleo-anterior
+834,39075,2010-11,39,6,Sin empleo anterior,39075/2010-11-01/sin-empleo-anterior
 119,39075,2010-12,39,6,Agricultura,39075/2010-12-01/agricultura
-,39075,2010-12,39,6,Sin empleo anterior,39075/2010-12-01/sin-empleo-anterior
+825,39075,2010-12,39,6,Sin empleo anterior,39075/2010-12-01/sin-empleo-anterior
 986,39075,2010-12,39,6,Industria,39075/2010-12-01/industria
 9117,39075,2010-12,39,6,Servicios,39075/2010-12-01/servicios
 2444,39075,2010-12,39,6,Construcción,39075/2010-12-01/construccion
 9666,39075,2011-01,39,6,Servicios,39075/2011-01-01/servicios
 117,39075,2011-01,39,6,Agricultura,39075/2011-01-01/agricultura
 2452,39075,2011-01,39,6,Construcción,39075/2011-01-01/construccion
-,39075,2011-01,39,6,Sin empleo anterior,39075/2011-01-01/sin-empleo-anterior
+839,39075,2011-01,39,6,Sin empleo anterior,39075/2011-01-01/sin-empleo-anterior
 984,39075,2011-01,39,6,Industria,39075/2011-01-01/industria
 2490,39075,2011-02,39,6,Construcción,39075/2011-02-01/construccion
 115,39075,2011-02,39,6,Agricultura,39075/2011-02-01/agricultura
 995,39075,2011-02,39,6,Industria,39075/2011-02-01/industria
 10030,39075,2011-02,39,6,Servicios,39075/2011-02-01/servicios
-,39075,2011-02,39,6,Sin empleo anterior,39075/2011-02-01/sin-empleo-anterior
+860,39075,2011-02,39,6,Sin empleo anterior,39075/2011-02-01/sin-empleo-anterior
 979,39075,2011-03,39,6,Industria,39075/2011-03-01/industria
 2550,39075,2011-03,39,6,Construcción,39075/2011-03-01/construccion
 10205,39075,2011-03,39,6,Servicios,39075/2011-03-01/servicios
 127,39075,2011-03,39,6,Agricultura,39075/2011-03-01/agricultura
-,39075,2011-03,39,6,Sin empleo anterior,39075/2011-03-01/sin-empleo-anterior
+902,39075,2011-03,39,6,Sin empleo anterior,39075/2011-03-01/sin-empleo-anterior
 10014,39075,2011-04,39,6,Servicios,39075/2011-04-01/servicios
 120,39075,2011-04,39,6,Agricultura,39075/2011-04-01/agricultura
 976,39075,2011-04,39,6,Industria,39075/2011-04-01/industria
 2576,39075,2011-04,39,6,Construcción,39075/2011-04-01/construccion
-,39075,2011-04,39,6,Sin empleo anterior,39075/2011-04-01/sin-empleo-anterior
+899,39075,2011-04,39,6,Sin empleo anterior,39075/2011-04-01/sin-empleo-anterior
 130,39075,2011-05,39,6,Agricultura,39075/2011-05-01/agricultura
 2497,39075,2011-05,39,6,Construcción,39075/2011-05-01/construccion
 9654,39075,2011-05,39,6,Servicios,39075/2011-05-01/servicios
-,39075,2011-05,39,6,Sin empleo anterior,39075/2011-05-01/sin-empleo-anterior
+887,39075,2011-05,39,6,Sin empleo anterior,39075/2011-05-01/sin-empleo-anterior
 932,39075,2011-05,39,6,Industria,39075/2011-05-01/industria
 937,39075,2011-06,39,6,Industria,39075/2011-06-01/industria
 2450,39075,2011-06,39,6,Construcción,39075/2011-06-01/construccion
 9366,39075,2011-06,39,6,Servicios,39075/2011-06-01/servicios
 127,39075,2011-06,39,6,Agricultura,39075/2011-06-01/agricultura
-,39075,2011-06,39,6,Sin empleo anterior,39075/2011-06-01/sin-empleo-anterior
+854,39075,2011-06,39,6,Sin empleo anterior,39075/2011-06-01/sin-empleo-anterior
 9022,39075,2011-07,39,6,Servicios,39075/2011-07-01/servicios
-,39075,2011-07,39,6,Sin empleo anterior,39075/2011-07-01/sin-empleo-anterior
+824,39075,2011-07,39,6,Sin empleo anterior,39075/2011-07-01/sin-empleo-anterior
 901,39075,2011-07,39,6,Industria,39075/2011-07-01/industria
 2373,39075,2011-07,39,6,Construcción,39075/2011-07-01/construccion
 129,39075,2011-07,39,6,Agricultura,39075/2011-07-01/agricultura
 924,39075,2011-08,39,6,Industria,39075/2011-08-01/industria
 9383,39075,2011-08,39,6,Servicios,39075/2011-08-01/servicios
 125,39075,2011-08,39,6,Agricultura,39075/2011-08-01/agricultura
-,39075,2011-08,39,6,Sin empleo anterior,39075/2011-08-01/sin-empleo-anterior
+833,39075,2011-08,39,6,Sin empleo anterior,39075/2011-08-01/sin-empleo-anterior
 2326,39075,2011-08,39,6,Construcción,39075/2011-08-01/construccion
 944,39075,2011-09,39,6,Industria,39075/2011-09-01/industria
 119,39075,2011-09,39,6,Agricultura,39075/2011-09-01/agricultura
-,39075,2011-09,39,6,Sin empleo anterior,39075/2011-09-01/sin-empleo-anterior
+838,39075,2011-09,39,6,Sin empleo anterior,39075/2011-09-01/sin-empleo-anterior
 2341,39075,2011-09,39,6,Construcción,39075/2011-09-01/construccion
 9813,39075,2011-09,39,6,Servicios,39075/2011-09-01/servicios
 10246,39075,2011-10,39,6,Servicios,39075/2011-10-01/servicios
 970,39075,2011-10,39,6,Industria,39075/2011-10-01/industria
 121,39075,2011-10,39,6,Agricultura,39075/2011-10-01/agricultura
-,39075,2011-10,39,6,Sin empleo anterior,39075/2011-10-01/sin-empleo-anterior
+852,39075,2011-10,39,6,Sin empleo anterior,39075/2011-10-01/sin-empleo-anterior
 2366,39075,2011-10,39,6,Construcción,39075/2011-10-01/construccion
 983,39075,2011-11,39,6,Industria,39075/2011-11-01/industria
 117,39075,2011-11,39,6,Agricultura,39075/2011-11-01/agricultura
 2379,39075,2011-11,39,6,Construcción,39075/2011-11-01/construccion
 10375,39075,2011-11,39,6,Servicios,39075/2011-11-01/servicios
-,39075,2011-11,39,6,Sin empleo anterior,39075/2011-11-01/sin-empleo-anterior
+827,39075,2011-11,39,6,Sin empleo anterior,39075/2011-11-01/sin-empleo-anterior
 2472,39075,2011-12,39,6,Construcción,39075/2011-12-01/construccion
 10341,39075,2011-12,39,6,Servicios,39075/2011-12-01/servicios
 121,39075,2011-12,39,6,Agricultura,39075/2011-12-01/agricultura
 944,39075,2011-12,39,6,Industria,39075/2011-12-01/industria
-,39075,2011-12,39,6,Sin empleo anterior,39075/2011-12-01/sin-empleo-anterior
+808,39075,2011-12,39,6,Sin empleo anterior,39075/2011-12-01/sin-empleo-anterior
 11016,39075,2012-01,39,6,Servicios,39075/2012-01-01/servicios
 987,39075,2012-01,39,6,Industria,39075/2012-01-01/industria
-,39075,2012-01,39,6,Sin empleo anterior,39075/2012-01-01/sin-empleo-anterior
+832,39075,2012-01,39,6,Sin empleo anterior,39075/2012-01-01/sin-empleo-anterior
 131,39075,2012-01,39,6,Agricultura,39075/2012-01-01/agricultura
 2561,39075,2012-01,39,6,Construcción,39075/2012-01-01/construccion
 999,39075,2012-02,39,6,Industria,39075/2012-02-01/industria
 2653,39075,2012-02,39,6,Construcción,39075/2012-02-01/construccion
 134,39075,2012-02,39,6,Agricultura,39075/2012-02-01/agricultura
 11392,39075,2012-02,39,6,Servicios,39075/2012-02-01/servicios
-,39075,2012-02,39,6,Sin empleo anterior,39075/2012-02-01/sin-empleo-anterior
+857,39075,2012-02,39,6,Sin empleo anterior,39075/2012-02-01/sin-empleo-anterior
 1023,39075,2012-03,39,6,Industria,39075/2012-03-01/industria
 11489,39075,2012-03,39,6,Servicios,39075/2012-03-01/servicios
 140,39075,2012-03,39,6,Agricultura,39075/2012-03-01/agricultura
 2677,39075,2012-03,39,6,Construcción,39075/2012-03-01/construccion
-,39075,2012-03,39,6,Sin empleo anterior,39075/2012-03-01/sin-empleo-anterior
+895,39075,2012-03,39,6,Sin empleo anterior,39075/2012-03-01/sin-empleo-anterior
 1048,39075,2012-04,39,6,Industria,39075/2012-04-01/industria
 2680,39075,2012-04,39,6,Construcción,39075/2012-04-01/construccion
 133,39075,2012-04,39,6,Agricultura,39075/2012-04-01/agricultura
 11408,39075,2012-04,39,6,Servicios,39075/2012-04-01/servicios
-,39075,2012-04,39,6,Sin empleo anterior,39075/2012-04-01/sin-empleo-anterior
+906,39075,2012-04,39,6,Sin empleo anterior,39075/2012-04-01/sin-empleo-anterior
 11290,39075,2012-05,39,6,Servicios,39075/2012-05-01/servicios
 137,39075,2012-05,39,6,Agricultura,39075/2012-05-01/agricultura
 2597,39075,2012-05,39,6,Construcción,39075/2012-05-01/construccion
 1059,39075,2012-05,39,6,Industria,39075/2012-05-01/industria
-,39075,2012-05,39,6,Sin empleo anterior,39075/2012-05-01/sin-empleo-anterior
+905,39075,2012-05,39,6,Sin empleo anterior,39075/2012-05-01/sin-empleo-anterior
 10869,39075,2012-06,39,6,Servicios,39075/2012-06-01/servicios
 1052,39075,2012-06,39,6,Industria,39075/2012-06-01/industria
 2616,39075,2012-06,39,6,Construcción,39075/2012-06-01/construccion
-,39075,2012-06,39,6,Sin empleo anterior,39075/2012-06-01/sin-empleo-anterior
+863,39075,2012-06,39,6,Sin empleo anterior,39075/2012-06-01/sin-empleo-anterior
 136,39075,2012-06,39,6,Agricultura,39075/2012-06-01/agricultura
 2554,39075,2012-07,39,6,Construcción,39075/2012-07-01/construccion
 10420,39075,2012-07,39,6,Servicios,39075/2012-07-01/servicios
 132,39075,2012-07,39,6,Agricultura,39075/2012-07-01/agricultura
 1046,39075,2012-07,39,6,Industria,39075/2012-07-01/industria
-,39075,2012-07,39,6,Sin empleo anterior,39075/2012-07-01/sin-empleo-anterior
+842,39075,2012-07,39,6,Sin empleo anterior,39075/2012-07-01/sin-empleo-anterior
 2573,39075,2012-08,39,6,Construcción,39075/2012-08-01/construccion
-,39075,2012-08,39,6,Sin empleo anterior,39075/2012-08-01/sin-empleo-anterior
+851,39075,2012-08,39,6,Sin empleo anterior,39075/2012-08-01/sin-empleo-anterior
 10665,39075,2012-08,39,6,Servicios,39075/2012-08-01/servicios
 125,39075,2012-08,39,6,Agricultura,39075/2012-08-01/agricultura
 1046,39075,2012-08,39,6,Industria,39075/2012-08-01/industria
 11021,39075,2012-09,39,6,Servicios,39075/2012-09-01/servicios
 1042,39075,2012-09,39,6,Industria,39075/2012-09-01/industria
 2589,39075,2012-09,39,6,Construcción,39075/2012-09-01/construccion
-,39075,2012-09,39,6,Sin empleo anterior,39075/2012-09-01/sin-empleo-anterior
+907,39075,2012-09,39,6,Sin empleo anterior,39075/2012-09-01/sin-empleo-anterior
 124,39075,2012-09,39,6,Agricultura,39075/2012-09-01/agricultura
-,39075,2012-10,39,6,Servicios,39075/2012-10-01/servicios
-1086,39075,2012-10,39,6,Agricultura,39075/2012-10-01/agricultura
-,39075,2012-10,39,6,Construcción,39075/2012-10-01/construccion
-,39075,2012-10,39,6,Sin empleo anterior,39075/2012-10-01/sin-empleo-anterior
-11635,39075,2012-10,39,6,Industria,39075/2012-10-01/industria
-1106,39075,2012-11,39,6,Agricultura,39075/2012-11-01/agricultura
-,39075,2012-11,39,6,Servicios,39075/2012-11-01/servicios
-,39075,2012-11,39,6,Sin empleo anterior,39075/2012-11-01/sin-empleo-anterior
-11908,39075,2012-11,39,6,Industria,39075/2012-11-01/industria
-,39075,2012-11,39,6,Construcción,39075/2012-11-01/construccion
-11721,39075,2012-12,39,6,Industria,39075/2012-12-01/industria
-,39075,2012-12,39,6,Servicios,39075/2012-12-01/servicios
-,39075,2012-12,39,6,Sin empleo anterior,39075/2012-12-01/sin-empleo-anterior
-1118,39075,2012-12,39,6,Agricultura,39075/2012-12-01/agricultura
-,39075,2012-12,39,6,Construcción,39075/2012-12-01/construccion
-,39075,2013-01,39,6,Sin empleo anterior,39075/2013-01-01/sin-empleo-anterior
-12362,39075,2013-01,39,6,Industria,39075/2013-01-01/industria
-,39075,2013-01,39,6,Construcción,39075/2013-01-01/construccion
-1112,39075,2013-01,39,6,Agricultura,39075/2013-01-01/agricultura
-,39075,2013-01,39,6,Servicios,39075/2013-01-01/servicios
-,39075,2013-02,39,6,Sin empleo anterior,39075/2013-02-01/sin-empleo-anterior
-12597,39075,2013-02,39,6,Industria,39075/2013-02-01/industria
-,39075,2013-02,39,6,Construcción,39075/2013-02-01/construccion
-,39075,2013-02,39,6,Servicios,39075/2013-02-01/servicios
-1083,39075,2013-02,39,6,Agricultura,39075/2013-02-01/agricultura
-1091,39075,2013-03,39,6,Agricultura,39075/2013-03-01/agricultura
-,39075,2013-03,39,6,Servicios,39075/2013-03-01/servicios
-12561,39075,2013-03,39,6,Industria,39075/2013-03-01/industria
-,39075,2013-03,39,6,Sin empleo anterior,39075/2013-03-01/sin-empleo-anterior
-,39075,2013-03,39,6,Construcción,39075/2013-03-01/construccion
-,39075,2013-04,39,6,Construcción,39075/2013-04-01/construccion
-,39075,2013-04,39,6,Servicios,39075/2013-04-01/servicios
-12541,39075,2013-04,39,6,Industria,39075/2013-04-01/industria
-1128,39075,2013-04,39,6,Agricultura,39075/2013-04-01/agricultura
-,39075,2013-04,39,6,Sin empleo anterior,39075/2013-04-01/sin-empleo-anterior
-12384,39075,2013-05,39,6,Industria,39075/2013-05-01/industria
-,39075,2013-05,39,6,Construcción,39075/2013-05-01/construccion
-,39075,2013-05,39,6,Servicios,39075/2013-05-01/servicios
-,39075,2013-05,39,6,Sin empleo anterior,39075/2013-05-01/sin-empleo-anterior
-1119,39075,2013-05,39,6,Agricultura,39075/2013-05-01/agricultura
-1089,39075,2013-06,39,6,Agricultura,39075/2013-06-01/agricultura
-11966,39075,2013-06,39,6,Industria,39075/2013-06-01/industria
-,39075,2013-06,39,6,Servicios,39075/2013-06-01/servicios
-,39075,2013-06,39,6,Sin empleo anterior,39075/2013-06-01/sin-empleo-anterior
-,39075,2013-06,39,6,Construcción,39075/2013-06-01/construccion
-1050,39075,2013-07,39,6,Agricultura,39075/2013-07-01/agricultura
-,39075,2013-07,39,6,Sin empleo anterior,39075/2013-07-01/sin-empleo-anterior
-,39075,2013-07,39,6,Construcción,39075/2013-07-01/construccion
-10979,39075,2013-07,39,6,Industria,39075/2013-07-01/industria
-,39075,2013-07,39,6,Servicios,39075/2013-07-01/servicios
-1056,39075,2013-08,39,6,Agricultura,39075/2013-08-01/agricultura
-,39075,2013-08,39,6,Servicios,39075/2013-08-01/servicios
-,39075,2013-08,39,6,Sin empleo anterior,39075/2013-08-01/sin-empleo-anterior
-11062,39075,2013-08,39,6,Industria,39075/2013-08-01/industria
-,39075,2013-08,39,6,Construcción,39075/2013-08-01/construccion
-,39075,2013-09,39,6,Construcción,39075/2013-09-01/construccion
-,39075,2013-09,39,6,Sin empleo anterior,39075/2013-09-01/sin-empleo-anterior
-1082,39075,2013-09,39,6,Agricultura,39075/2013-09-01/agricultura
-11444,39075,2013-09,39,6,Industria,39075/2013-09-01/industria
-,39075,2013-09,39,6,Servicios,39075/2013-09-01/servicios
-,39075,2013-10,39,6,Sin empleo anterior,39075/2013-10-01/sin-empleo-anterior
-1088,39075,2013-10,39,6,Agricultura,39075/2013-10-01/agricultura
-,39075,2013-10,39,6,Construcción,39075/2013-10-01/construccion
-,39075,2013-10,39,6,Servicios,39075/2013-10-01/servicios
-11904,39075,2013-10,39,6,Industria,39075/2013-10-01/industria
-1097,39075,2013-11,39,6,Agricultura,39075/2013-11-01/agricultura
-,39075,2013-11,39,6,Sin empleo anterior,39075/2013-11-01/sin-empleo-anterior
-12005,39075,2013-11,39,6,Industria,39075/2013-11-01/industria
-,39075,2013-11,39,6,Servicios,39075/2013-11-01/servicios
-,39075,2013-11,39,6,Construcción,39075/2013-11-01/construccion
-1095,39075,2013-12,39,6,Agricultura,39075/2013-12-01/agricultura
-,39075,2013-12,39,6,Servicios,39075/2013-12-01/servicios
-11968,39075,2013-12,39,6,Industria,39075/2013-12-01/industria
-,39075,2013-12,39,6,Construcción,39075/2013-12-01/construccion
-,39075,2013-12,39,6,Sin empleo anterior,39075/2013-12-01/sin-empleo-anterior
-,39075,2014-01,39,6,Servicios,39075/2014-01-01/servicios
-1084,39075,2014-01,39,6,Agricultura,39075/2014-01-01/agricultura
-12301,39075,2014-01,39,6,Industria,39075/2014-01-01/industria
-,39075,2014-01,39,6,Sin empleo anterior,39075/2014-01-01/sin-empleo-anterior
-,39075,2014-01,39,6,Construcción,39075/2014-01-01/construccion
-,39075,2014-02,39,6,Construcción,39075/2014-02-01/construccion
-1037,39075,2014-02,39,6,Agricultura,39075/2014-02-01/agricultura
-,39075,2014-02,39,6,Sin empleo anterior,39075/2014-02-01/sin-empleo-anterior
-,39075,2014-02,39,6,Servicios,39075/2014-02-01/servicios
-11942,39075,2014-02,39,6,Industria,39075/2014-02-01/industria
-1039,39075,2014-03,39,6,Agricultura,39075/2014-03-01/agricultura
-,39075,2014-03,39,6,Construcción,39075/2014-03-01/construccion
-,39075,2014-03,39,6,Sin empleo anterior,39075/2014-03-01/sin-empleo-anterior
-11642,39075,2014-03,39,6,Industria,39075/2014-03-01/industria
-,39075,2014-03,39,6,Servicios,39075/2014-03-01/servicios
-,39075,2014-04,39,6,Construcción,39075/2014-04-01/construccion
-,39075,2014-04,39,6,Sin empleo anterior,39075/2014-04-01/sin-empleo-anterior
-,39075,2014-04,39,6,Servicios,39075/2014-04-01/servicios
-1009,39075,2014-04,39,6,Agricultura,39075/2014-04-01/agricultura
-11369,39075,2014-04,39,6,Industria,39075/2014-04-01/industria
-958,39075,2014-05,39,6,Agricultura,39075/2014-05-01/agricultura
-11152,39075,2014-05,39,6,Industria,39075/2014-05-01/industria
-,39075,2014-05,39,6,Servicios,39075/2014-05-01/servicios
-,39075,2014-05,39,6,Sin empleo anterior,39075/2014-05-01/sin-empleo-anterior
-,39075,2014-05,39,6,Construcción,39075/2014-05-01/construccion
-,39075,2014-06,39,6,Servicios,39075/2014-06-01/servicios
-,39075,2014-06,39,6,Sin empleo anterior,39075/2014-06-01/sin-empleo-anterior
-932,39075,2014-06,39,6,Agricultura,39075/2014-06-01/agricultura
-10615,39075,2014-06,39,6,Industria,39075/2014-06-01/industria
-,39075,2014-06,39,6,Construcción,39075/2014-06-01/construccion
-10199,39075,2014-07,39,6,Industria,39075/2014-07-01/industria
-,39075,2014-07,39,6,Servicios,39075/2014-07-01/servicios
-,39075,2014-07,39,6,Sin empleo anterior,39075/2014-07-01/sin-empleo-anterior
-,39075,2014-07,39,6,Construcción,39075/2014-07-01/construccion
-895,39075,2014-07,39,6,Agricultura,39075/2014-07-01/agricultura
-882,39075,2014-08,39,6,Agricultura,39075/2014-08-01/agricultura
-10108,39075,2014-08,39,6,Industria,39075/2014-08-01/industria
-,39075,2014-08,39,6,Servicios,39075/2014-08-01/servicios
-,39075,2014-08,39,6,Construcción,39075/2014-08-01/construccion
-,39075,2014-08,39,6,Sin empleo anterior,39075/2014-08-01/sin-empleo-anterior
-10439,39075,2014-09,39,6,Industria,39075/2014-09-01/industria
-,39075,2014-09,39,6,Construcción,39075/2014-09-01/construccion
-874,39075,2014-09,39,6,Agricultura,39075/2014-09-01/agricultura
-,39075,2014-09,39,6,Servicios,39075/2014-09-01/servicios
-,39075,2014-09,39,6,Sin empleo anterior,39075/2014-09-01/sin-empleo-anterior
-870,39075,2014-10,39,6,Agricultura,39075/2014-10-01/agricultura
-10923,39075,2014-10,39,6,Industria,39075/2014-10-01/industria
-,39075,2014-10,39,6,Servicios,39075/2014-10-01/servicios
-,39075,2014-10,39,6,Construcción,39075/2014-10-01/construccion
-,39075,2014-10,39,6,Sin empleo anterior,39075/2014-10-01/sin-empleo-anterior
-11189,39075,2014-11,39,6,Industria,39075/2014-11-01/industria
-,39075,2014-11,39,6,Sin empleo anterior,39075/2014-11-01/sin-empleo-anterior
-,39075,2014-11,39,6,Construcción,39075/2014-11-01/construccion
-890,39075,2014-11,39,6,Agricultura,39075/2014-11-01/agricultura
-,39075,2014-11,39,6,Servicios,39075/2014-11-01/servicios
-,39075,2014-12,39,6,Construcción,39075/2014-12-01/construccion
-10795,39075,2014-12,39,6,Industria,39075/2014-12-01/industria
-,39075,2014-12,39,6,Servicios,39075/2014-12-01/servicios
-879,39075,2014-12,39,6,Agricultura,39075/2014-12-01/agricultura
-,39075,2014-12,39,6,Sin empleo anterior,39075/2014-12-01/sin-empleo-anterior
-11051,39075,2015-01,39,6,Industria,39075/2015-01-01/industria
-,39075,2015-01,39,6,Servicios,39075/2015-01-01/servicios
-883,39075,2015-01,39,6,Agricultura,39075/2015-01-01/agricultura
-,39075,2015-01,39,6,Construcción,39075/2015-01-01/construccion
-,39075,2015-01,39,6,Sin empleo anterior,39075/2015-01-01/sin-empleo-anterior
-,39075,2015-02,39,6,Servicios,39075/2015-02-01/servicios
-,39075,2015-02,39,6,Sin empleo anterior,39075/2015-02-01/sin-empleo-anterior
-10757,39075,2015-02,39,6,Industria,39075/2015-02-01/industria
-,39075,2015-02,39,6,Construcción,39075/2015-02-01/construccion
-872,39075,2015-02,39,6,Agricultura,39075/2015-02-01/agricultura
-,39075,2015-03,39,6,Construcción,39075/2015-03-01/construccion
-10605,39075,2015-03,39,6,Industria,39075/2015-03-01/industria
-868,39075,2015-03,39,6,Agricultura,39075/2015-03-01/agricultura
-,39075,2015-03,39,6,Servicios,39075/2015-03-01/servicios
-,39075,2015-03,39,6,Sin empleo anterior,39075/2015-03-01/sin-empleo-anterior
-,39075,2015-04,39,6,Servicios,39075/2015-04-01/servicios
-,39075,2015-04,39,6,Construcción,39075/2015-04-01/construccion
-838,39075,2015-04,39,6,Agricultura,39075/2015-04-01/agricultura
-10229,39075,2015-04,39,6,Industria,39075/2015-04-01/industria
-,39075,2015-04,39,6,Sin empleo anterior,39075/2015-04-01/sin-empleo-anterior
-9959,39075,2015-05,39,6,Industria,39075/2015-05-01/industria
-,39075,2015-05,39,6,Servicios,39075/2015-05-01/servicios
-,39075,2015-05,39,6,Sin empleo anterior,39075/2015-05-01/sin-empleo-anterior
-861,39075,2015-05,39,6,Agricultura,39075/2015-05-01/agricultura
-,39075,2015-05,39,6,Construcción,39075/2015-05-01/construccion
-,39075,2015-06,39,6,Construcción,39075/2015-06-01/construccion
-,39075,2015-06,39,6,Servicios,39075/2015-06-01/servicios
-,39075,2015-06,39,6,Sin empleo anterior,39075/2015-06-01/sin-empleo-anterior
-9736,39075,2015-06,39,6,Industria,39075/2015-06-01/industria
-872,39075,2015-06,39,6,Agricultura,39075/2015-06-01/agricultura
-9571,39075,2015-07,39,6,Industria,39075/2015-07-01/industria
-880,39075,2015-07,39,6,Agricultura,39075/2015-07-01/agricultura
-,39075,2015-07,39,6,Construcción,39075/2015-07-01/construccion
-,39075,2015-07,39,6,Servicios,39075/2015-07-01/servicios
-,39075,2015-07,39,6,Sin empleo anterior,39075/2015-07-01/sin-empleo-anterior
-9857,39075,2015-08,39,6,Industria,39075/2015-08-01/industria
-,39075,2015-08,39,6,Sin empleo anterior,39075/2015-08-01/sin-empleo-anterior
-862,39075,2015-08,39,6,Agricultura,39075/2015-08-01/agricultura
-,39075,2015-08,39,6,Construcción,39075/2015-08-01/construccion
-,39075,2015-08,39,6,Servicios,39075/2015-08-01/servicios
-,39075,2015-09,39,6,Construcción,39075/2015-09-01/construccion
-,39075,2015-09,39,6,Servicios,39075/2015-09-01/servicios
-870,39075,2015-09,39,6,Agricultura,39075/2015-09-01/agricultura
-10208,39075,2015-09,39,6,Industria,39075/2015-09-01/industria
-,39075,2015-09,39,6,Sin empleo anterior,39075/2015-09-01/sin-empleo-anterior
-,39075,2015-10,39,6,Servicios,39075/2015-10-01/servicios
-10621,39075,2015-10,39,6,Industria,39075/2015-10-01/industria
-908,39075,2015-10,39,6,Agricultura,39075/2015-10-01/agricultura
-,39075,2015-10,39,6,Construcción,39075/2015-10-01/construccion
-,39075,2015-10,39,6,Sin empleo anterior,39075/2015-10-01/sin-empleo-anterior
-,39075,2015-11,39,6,Sin empleo anterior,39075/2015-11-01/sin-empleo-anterior
-920,39075,2015-11,39,6,Agricultura,39075/2015-11-01/agricultura
-,39075,2015-11,39,6,Construcción,39075/2015-11-01/construccion
-10675,39075,2015-11,39,6,Industria,39075/2015-11-01/industria
-,39075,2015-11,39,6,Servicios,39075/2015-11-01/servicios
-,39075,2015-12,39,6,Construcción,39075/2015-12-01/construccion
-,39075,2015-12,39,6,Servicios,39075/2015-12-01/servicios
-935,39075,2015-12,39,6,Agricultura,39075/2015-12-01/agricultura
-10574,39075,2015-12,39,6,Industria,39075/2015-12-01/industria
-,39075,2015-12,39,6,Sin empleo anterior,39075/2015-12-01/sin-empleo-anterior
-11113,39075,2016-01,39,6,Industria,39075/2016-01-01/industria
-,39075,2016-01,39,6,Construcción,39075/2016-01-01/construccion
-,39075,2016-01,39,6,Servicios,39075/2016-01-01/servicios
-950,39075,2016-01,39,6,Agricultura,39075/2016-01-01/agricultura
-,39075,2016-01,39,6,Sin empleo anterior,39075/2016-01-01/sin-empleo-anterior
-954,39075,2016-02,39,6,Agricultura,39075/2016-02-01/agricultura
-,39075,2016-02,39,6,Construcción,39075/2016-02-01/construccion
-,39075,2016-02,39,6,Servicios,39075/2016-02-01/servicios
-,39075,2016-02,39,6,Sin empleo anterior,39075/2016-02-01/sin-empleo-anterior
-11036,39075,2016-02,39,6,Industria,39075/2016-02-01/industria
-933,39075,2016-03,39,6,Agricultura,39075/2016-03-01/agricultura
-10487,39075,2016-03,39,6,Industria,39075/2016-03-01/industria
-,39075,2016-03,39,6,Servicios,39075/2016-03-01/servicios
-,39075,2016-03,39,6,Construcción,39075/2016-03-01/construccion
-,39075,2016-03,39,6,Sin empleo anterior,39075/2016-03-01/sin-empleo-anterior
-,39075,2016-04,39,6,Sin empleo anterior,39075/2016-04-01/sin-empleo-anterior
-,39075,2016-04,39,6,Construcción,39075/2016-04-01/construccion
-10263,39075,2016-04,39,6,Industria,39075/2016-04-01/industria
-897,39075,2016-04,39,6,Agricultura,39075/2016-04-01/agricultura
-,39075,2016-04,39,6,Servicios,39075/2016-04-01/servicios
-,39075,2016-05,39,6,Construcción,39075/2016-05-01/construccion
-,39075,2016-05,39,6,Servicios,39075/2016-05-01/servicios
-10033,39075,2016-05,39,6,Industria,39075/2016-05-01/industria
-,39075,2016-05,39,6,Sin empleo anterior,39075/2016-05-01/sin-empleo-anterior
-877,39075,2016-05,39,6,Agricultura,39075/2016-05-01/agricultura
-825,39075,2016-06,39,6,Agricultura,39075/2016-06-01/agricultura
-,39075,2016-06,39,6,Servicios,39075/2016-06-01/servicios
-9493,39075,2016-06,39,6,Industria,39075/2016-06-01/industria
-,39075,2016-06,39,6,Construcción,39075/2016-06-01/construccion
-,39075,2016-06,39,6,Sin empleo anterior,39075/2016-06-01/sin-empleo-anterior
-,39075,2016-07,39,6,Construcción,39075/2016-07-01/construccion
-,39075,2016-07,39,6,Sin empleo anterior,39075/2016-07-01/sin-empleo-anterior
-9041,39075,2016-07,39,6,Industria,39075/2016-07-01/industria
-795,39075,2016-07,39,6,Agricultura,39075/2016-07-01/agricultura
-,39075,2016-07,39,6,Servicios,39075/2016-07-01/servicios
-9160,39075,2016-08,39,6,Industria,39075/2016-08-01/industria
-,39075,2016-08,39,6,Servicios,39075/2016-08-01/servicios
-,39075,2016-08,39,6,Construcción,39075/2016-08-01/construccion
-798,39075,2016-08,39,6,Agricultura,39075/2016-08-01/agricultura
-,39075,2016-08,39,6,Sin empleo anterior,39075/2016-08-01/sin-empleo-anterior
-,39075,2016-09,39,6,Construcción,39075/2016-09-01/construccion
-9574,39075,2016-09,39,6,Industria,39075/2016-09-01/industria
-,39075,2016-09,39,6,Servicios,39075/2016-09-01/servicios
-811,39075,2016-09,39,6,Agricultura,39075/2016-09-01/agricultura
-,39075,2016-09,39,6,Sin empleo anterior,39075/2016-09-01/sin-empleo-anterior
-,39075,2016-10,39,6,Sin empleo anterior,39075/2016-10-01/sin-empleo-anterior
-,39075,2016-10,39,6,Construcción,39075/2016-10-01/construccion
-,39075,2016-10,39,6,Servicios,39075/2016-10-01/servicios
-796,39075,2016-10,39,6,Agricultura,39075/2016-10-01/agricultura
-9889,39075,2016-10,39,6,Industria,39075/2016-10-01/industria
+11635,39075,2012-10,39,6,Servicios,39075/2012-10-01/servicios
+143,39075,2012-10,39,6,Agricultura,39075/2012-10-01/agricultura
+2605,39075,2012-10,39,6,Construcción,39075/2012-10-01/construccion
+934,39075,2012-10,39,6,Sin empleo anterior,39075/2012-10-01/sin-empleo-anterior
+1086,39075,2012-10,39,6,Industria,39075/2012-10-01/industria
+150,39075,2012-11,39,6,Agricultura,39075/2012-11-01/agricultura
+11908,39075,2012-11,39,6,Servicios,39075/2012-11-01/servicios
+941,39075,2012-11,39,6,Sin empleo anterior,39075/2012-11-01/sin-empleo-anterior
+1106,39075,2012-11,39,6,Industria,39075/2012-11-01/industria
+2600,39075,2012-11,39,6,Construcción,39075/2012-11-01/construccion
+1118,39075,2012-12,39,6,Industria,39075/2012-12-01/industria
+11721,39075,2012-12,39,6,Servicios,39075/2012-12-01/servicios
+906,39075,2012-12,39,6,Sin empleo anterior,39075/2012-12-01/sin-empleo-anterior
+148,39075,2012-12,39,6,Agricultura,39075/2012-12-01/agricultura
+2619,39075,2012-12,39,6,Construcción,39075/2012-12-01/construccion
+881,39075,2013-01,39,6,Sin empleo anterior,39075/2013-01-01/sin-empleo-anterior
+1112,39075,2013-01,39,6,Industria,39075/2013-01-01/industria
+2640,39075,2013-01,39,6,Construcción,39075/2013-01-01/construccion
+152,39075,2013-01,39,6,Agricultura,39075/2013-01-01/agricultura
+12362,39075,2013-01,39,6,Servicios,39075/2013-01-01/servicios
+876,39075,2013-02,39,6,Sin empleo anterior,39075/2013-02-01/sin-empleo-anterior
+1083,39075,2013-02,39,6,Industria,39075/2013-02-01/industria
+2629,39075,2013-02,39,6,Construcción,39075/2013-02-01/construccion
+12597,39075,2013-02,39,6,Servicios,39075/2013-02-01/servicios
+147,39075,2013-02,39,6,Agricultura,39075/2013-02-01/agricultura
+159,39075,2013-03,39,6,Agricultura,39075/2013-03-01/agricultura
+12561,39075,2013-03,39,6,Servicios,39075/2013-03-01/servicios
+1091,39075,2013-03,39,6,Industria,39075/2013-03-01/industria
+881,39075,2013-03,39,6,Sin empleo anterior,39075/2013-03-01/sin-empleo-anterior
+2630,39075,2013-03,39,6,Construcción,39075/2013-03-01/construccion
+2611,39075,2013-04,39,6,Construcción,39075/2013-04-01/construccion
+12541,39075,2013-04,39,6,Servicios,39075/2013-04-01/servicios
+1128,39075,2013-04,39,6,Industria,39075/2013-04-01/industria
+161,39075,2013-04,39,6,Agricultura,39075/2013-04-01/agricultura
+876,39075,2013-04,39,6,Sin empleo anterior,39075/2013-04-01/sin-empleo-anterior
+1119,39075,2013-05,39,6,Industria,39075/2013-05-01/industria
+2575,39075,2013-05,39,6,Construcción,39075/2013-05-01/construccion
+12384,39075,2013-05,39,6,Servicios,39075/2013-05-01/servicios
+866,39075,2013-05,39,6,Sin empleo anterior,39075/2013-05-01/sin-empleo-anterior
+151,39075,2013-05,39,6,Agricultura,39075/2013-05-01/agricultura
+141,39075,2013-06,39,6,Agricultura,39075/2013-06-01/agricultura
+1089,39075,2013-06,39,6,Industria,39075/2013-06-01/industria
+11966,39075,2013-06,39,6,Servicios,39075/2013-06-01/servicios
+828,39075,2013-06,39,6,Sin empleo anterior,39075/2013-06-01/sin-empleo-anterior
+2549,39075,2013-06,39,6,Construcción,39075/2013-06-01/construccion
+134,39075,2013-07,39,6,Agricultura,39075/2013-07-01/agricultura
+830,39075,2013-07,39,6,Sin empleo anterior,39075/2013-07-01/sin-empleo-anterior
+2405,39075,2013-07,39,6,Construcción,39075/2013-07-01/construccion
+1050,39075,2013-07,39,6,Industria,39075/2013-07-01/industria
+10979,39075,2013-07,39,6,Servicios,39075/2013-07-01/servicios
+139,39075,2013-08,39,6,Agricultura,39075/2013-08-01/agricultura
+11062,39075,2013-08,39,6,Servicios,39075/2013-08-01/servicios
+856,39075,2013-08,39,6,Sin empleo anterior,39075/2013-08-01/sin-empleo-anterior
+1056,39075,2013-08,39,6,Industria,39075/2013-08-01/industria
+2362,39075,2013-08,39,6,Construcción,39075/2013-08-01/construccion
+2346,39075,2013-09,39,6,Construcción,39075/2013-09-01/construccion
+890,39075,2013-09,39,6,Sin empleo anterior,39075/2013-09-01/sin-empleo-anterior
+134,39075,2013-09,39,6,Agricultura,39075/2013-09-01/agricultura
+1082,39075,2013-09,39,6,Industria,39075/2013-09-01/industria
+11444,39075,2013-09,39,6,Servicios,39075/2013-09-01/servicios
+910,39075,2013-10,39,6,Sin empleo anterior,39075/2013-10-01/sin-empleo-anterior
+146,39075,2013-10,39,6,Agricultura,39075/2013-10-01/agricultura
+2369,39075,2013-10,39,6,Construcción,39075/2013-10-01/construccion
+11904,39075,2013-10,39,6,Servicios,39075/2013-10-01/servicios
+1088,39075,2013-10,39,6,Industria,39075/2013-10-01/industria
+152,39075,2013-11,39,6,Agricultura,39075/2013-11-01/agricultura
+922,39075,2013-11,39,6,Sin empleo anterior,39075/2013-11-01/sin-empleo-anterior
+1097,39075,2013-11,39,6,Industria,39075/2013-11-01/industria
+12005,39075,2013-11,39,6,Servicios,39075/2013-11-01/servicios
+2333,39075,2013-11,39,6,Construcción,39075/2013-11-01/construccion
+155,39075,2013-12,39,6,Agricultura,39075/2013-12-01/agricultura
+11968,39075,2013-12,39,6,Servicios,39075/2013-12-01/servicios
+1095,39075,2013-12,39,6,Industria,39075/2013-12-01/industria
+2367,39075,2013-12,39,6,Construcción,39075/2013-12-01/construccion
+926,39075,2013-12,39,6,Sin empleo anterior,39075/2013-12-01/sin-empleo-anterior
+12301,39075,2014-01,39,6,Servicios,39075/2014-01-01/servicios
+157,39075,2014-01,39,6,Agricultura,39075/2014-01-01/agricultura
+1084,39075,2014-01,39,6,Industria,39075/2014-01-01/industria
+930,39075,2014-01,39,6,Sin empleo anterior,39075/2014-01-01/sin-empleo-anterior
+2387,39075,2014-01,39,6,Construcción,39075/2014-01-01/construccion
+2347,39075,2014-02,39,6,Construcción,39075/2014-02-01/construccion
+155,39075,2014-02,39,6,Agricultura,39075/2014-02-01/agricultura
+949,39075,2014-02,39,6,Sin empleo anterior,39075/2014-02-01/sin-empleo-anterior
+11942,39075,2014-02,39,6,Servicios,39075/2014-02-01/servicios
+1037,39075,2014-02,39,6,Industria,39075/2014-02-01/industria
+150,39075,2014-03,39,6,Agricultura,39075/2014-03-01/agricultura
+2327,39075,2014-03,39,6,Construcción,39075/2014-03-01/construccion
+1007,39075,2014-03,39,6,Sin empleo anterior,39075/2014-03-01/sin-empleo-anterior
+1039,39075,2014-03,39,6,Industria,39075/2014-03-01/industria
+11642,39075,2014-03,39,6,Servicios,39075/2014-03-01/servicios
+2267,39075,2014-04,39,6,Construcción,39075/2014-04-01/construccion
+1006,39075,2014-04,39,6,Sin empleo anterior,39075/2014-04-01/sin-empleo-anterior
+11369,39075,2014-04,39,6,Servicios,39075/2014-04-01/servicios
+151,39075,2014-04,39,6,Agricultura,39075/2014-04-01/agricultura
+1009,39075,2014-04,39,6,Industria,39075/2014-04-01/industria
+149,39075,2014-05,39,6,Agricultura,39075/2014-05-01/agricultura
+958,39075,2014-05,39,6,Industria,39075/2014-05-01/industria
+11152,39075,2014-05,39,6,Servicios,39075/2014-05-01/servicios
+1024,39075,2014-05,39,6,Sin empleo anterior,39075/2014-05-01/sin-empleo-anterior
+2235,39075,2014-05,39,6,Construcción,39075/2014-05-01/construccion
+10615,39075,2014-06,39,6,Servicios,39075/2014-06-01/servicios
+1007,39075,2014-06,39,6,Sin empleo anterior,39075/2014-06-01/sin-empleo-anterior
+152,39075,2014-06,39,6,Agricultura,39075/2014-06-01/agricultura
+932,39075,2014-06,39,6,Industria,39075/2014-06-01/industria
+2158,39075,2014-06,39,6,Construcción,39075/2014-06-01/construccion
+895,39075,2014-07,39,6,Industria,39075/2014-07-01/industria
+10199,39075,2014-07,39,6,Servicios,39075/2014-07-01/servicios
+1058,39075,2014-07,39,6,Sin empleo anterior,39075/2014-07-01/sin-empleo-anterior
+2073,39075,2014-07,39,6,Construcción,39075/2014-07-01/construccion
+162,39075,2014-07,39,6,Agricultura,39075/2014-07-01/agricultura
+169,39075,2014-08,39,6,Agricultura,39075/2014-08-01/agricultura
+882,39075,2014-08,39,6,Industria,39075/2014-08-01/industria
+10108,39075,2014-08,39,6,Servicios,39075/2014-08-01/servicios
+2040,39075,2014-08,39,6,Construcción,39075/2014-08-01/construccion
+1090,39075,2014-08,39,6,Sin empleo anterior,39075/2014-08-01/sin-empleo-anterior
+874,39075,2014-09,39,6,Industria,39075/2014-09-01/industria
+1998,39075,2014-09,39,6,Construcción,39075/2014-09-01/construccion
+166,39075,2014-09,39,6,Agricultura,39075/2014-09-01/agricultura
+10439,39075,2014-09,39,6,Servicios,39075/2014-09-01/servicios
+1121,39075,2014-09,39,6,Sin empleo anterior,39075/2014-09-01/sin-empleo-anterior
+168,39075,2014-10,39,6,Agricultura,39075/2014-10-01/agricultura
+870,39075,2014-10,39,6,Industria,39075/2014-10-01/industria
+10923,39075,2014-10,39,6,Servicios,39075/2014-10-01/servicios
+1983,39075,2014-10,39,6,Construcción,39075/2014-10-01/construccion
+1152,39075,2014-10,39,6,Sin empleo anterior,39075/2014-10-01/sin-empleo-anterior
+890,39075,2014-11,39,6,Industria,39075/2014-11-01/industria
+1188,39075,2014-11,39,6,Sin empleo anterior,39075/2014-11-01/sin-empleo-anterior
+1975,39075,2014-11,39,6,Construcción,39075/2014-11-01/construccion
+164,39075,2014-11,39,6,Agricultura,39075/2014-11-01/agricultura
+11189,39075,2014-11,39,6,Servicios,39075/2014-11-01/servicios
+1966,39075,2014-12,39,6,Construcción,39075/2014-12-01/construccion
+879,39075,2014-12,39,6,Industria,39075/2014-12-01/industria
+10795,39075,2014-12,39,6,Servicios,39075/2014-12-01/servicios
+165,39075,2014-12,39,6,Agricultura,39075/2014-12-01/agricultura
+1128,39075,2014-12,39,6,Sin empleo anterior,39075/2014-12-01/sin-empleo-anterior
+883,39075,2015-01,39,6,Industria,39075/2015-01-01/industria
+11051,39075,2015-01,39,6,Servicios,39075/2015-01-01/servicios
+174,39075,2015-01,39,6,Agricultura,39075/2015-01-01/agricultura
+1925,39075,2015-01,39,6,Construcción,39075/2015-01-01/construccion
+1116,39075,2015-01,39,6,Sin empleo anterior,39075/2015-01-01/sin-empleo-anterior
+10757,39075,2015-02,39,6,Servicios,39075/2015-02-01/servicios
+1115,39075,2015-02,39,6,Sin empleo anterior,39075/2015-02-01/sin-empleo-anterior
+872,39075,2015-02,39,6,Industria,39075/2015-02-01/industria
+1882,39075,2015-02,39,6,Construcción,39075/2015-02-01/construccion
+166,39075,2015-02,39,6,Agricultura,39075/2015-02-01/agricultura
+1889,39075,2015-03,39,6,Construcción,39075/2015-03-01/construccion
+868,39075,2015-03,39,6,Industria,39075/2015-03-01/industria
+147,39075,2015-03,39,6,Agricultura,39075/2015-03-01/agricultura
+10605,39075,2015-03,39,6,Servicios,39075/2015-03-01/servicios
+1161,39075,2015-03,39,6,Sin empleo anterior,39075/2015-03-01/sin-empleo-anterior
+10229,39075,2015-04,39,6,Servicios,39075/2015-04-01/servicios
+1839,39075,2015-04,39,6,Construcción,39075/2015-04-01/construccion
+145,39075,2015-04,39,6,Agricultura,39075/2015-04-01/agricultura
+838,39075,2015-04,39,6,Industria,39075/2015-04-01/industria
+1145,39075,2015-04,39,6,Sin empleo anterior,39075/2015-04-01/sin-empleo-anterior
+861,39075,2015-05,39,6,Industria,39075/2015-05-01/industria
+9959,39075,2015-05,39,6,Servicios,39075/2015-05-01/servicios
+1157,39075,2015-05,39,6,Sin empleo anterior,39075/2015-05-01/sin-empleo-anterior
+148,39075,2015-05,39,6,Agricultura,39075/2015-05-01/agricultura
+1789,39075,2015-05,39,6,Construcción,39075/2015-05-01/construccion
+1736,39075,2015-06,39,6,Construcción,39075/2015-06-01/construccion
+9736,39075,2015-06,39,6,Servicios,39075/2015-06-01/servicios
+1135,39075,2015-06,39,6,Sin empleo anterior,39075/2015-06-01/sin-empleo-anterior
+872,39075,2015-06,39,6,Industria,39075/2015-06-01/industria
+159,39075,2015-06,39,6,Agricultura,39075/2015-06-01/agricultura
+880,39075,2015-07,39,6,Industria,39075/2015-07-01/industria
+147,39075,2015-07,39,6,Agricultura,39075/2015-07-01/agricultura
+1751,39075,2015-07,39,6,Construcción,39075/2015-07-01/construccion
+9571,39075,2015-07,39,6,Servicios,39075/2015-07-01/servicios
+1128,39075,2015-07,39,6,Sin empleo anterior,39075/2015-07-01/sin-empleo-anterior
+862,39075,2015-08,39,6,Industria,39075/2015-08-01/industria
+1134,39075,2015-08,39,6,Sin empleo anterior,39075/2015-08-01/sin-empleo-anterior
+142,39075,2015-08,39,6,Agricultura,39075/2015-08-01/agricultura
+1725,39075,2015-08,39,6,Construcción,39075/2015-08-01/construccion
+9857,39075,2015-08,39,6,Servicios,39075/2015-08-01/servicios
+1703,39075,2015-09,39,6,Construcción,39075/2015-09-01/construccion
+10208,39075,2015-09,39,6,Servicios,39075/2015-09-01/servicios
+136,39075,2015-09,39,6,Agricultura,39075/2015-09-01/agricultura
+870,39075,2015-09,39,6,Industria,39075/2015-09-01/industria
+1138,39075,2015-09,39,6,Sin empleo anterior,39075/2015-09-01/sin-empleo-anterior
+10621,39075,2015-10,39,6,Servicios,39075/2015-10-01/servicios
+908,39075,2015-10,39,6,Industria,39075/2015-10-01/industria
+156,39075,2015-10,39,6,Agricultura,39075/2015-10-01/agricultura
+1722,39075,2015-10,39,6,Construcción,39075/2015-10-01/construccion
+1139,39075,2015-10,39,6,Sin empleo anterior,39075/2015-10-01/sin-empleo-anterior
+1126,39075,2015-11,39,6,Sin empleo anterior,39075/2015-11-01/sin-empleo-anterior
+167,39075,2015-11,39,6,Agricultura,39075/2015-11-01/agricultura
+1734,39075,2015-11,39,6,Construcción,39075/2015-11-01/construccion
+920,39075,2015-11,39,6,Industria,39075/2015-11-01/industria
+10675,39075,2015-11,39,6,Servicios,39075/2015-11-01/servicios
+1806,39075,2015-12,39,6,Construcción,39075/2015-12-01/construccion
+10574,39075,2015-12,39,6,Servicios,39075/2015-12-01/servicios
+174,39075,2015-12,39,6,Agricultura,39075/2015-12-01/agricultura
+935,39075,2015-12,39,6,Industria,39075/2015-12-01/industria
+1113,39075,2015-12,39,6,Sin empleo anterior,39075/2015-12-01/sin-empleo-anterior
+950,39075,2016-01,39,6,Industria,39075/2016-01-01/industria
+1840,39075,2016-01,39,6,Construcción,39075/2016-01-01/construccion
+11113,39075,2016-01,39,6,Servicios,39075/2016-01-01/servicios
+168,39075,2016-01,39,6,Agricultura,39075/2016-01-01/agricultura
+1089,39075,2016-01,39,6,Sin empleo anterior,39075/2016-01-01/sin-empleo-anterior
+163,39075,2016-02,39,6,Agricultura,39075/2016-02-01/agricultura
+1856,39075,2016-02,39,6,Construcción,39075/2016-02-01/construccion
+11036,39075,2016-02,39,6,Servicios,39075/2016-02-01/servicios
+1147,39075,2016-02,39,6,Sin empleo anterior,39075/2016-02-01/sin-empleo-anterior
+954,39075,2016-02,39,6,Industria,39075/2016-02-01/industria
+162,39075,2016-03,39,6,Agricultura,39075/2016-03-01/agricultura
+933,39075,2016-03,39,6,Industria,39075/2016-03-01/industria
+10487,39075,2016-03,39,6,Servicios,39075/2016-03-01/servicios
+1805,39075,2016-03,39,6,Construcción,39075/2016-03-01/construccion
+1143,39075,2016-03,39,6,Sin empleo anterior,39075/2016-03-01/sin-empleo-anterior
+1133,39075,2016-04,39,6,Sin empleo anterior,39075/2016-04-01/sin-empleo-anterior
+1737,39075,2016-04,39,6,Construcción,39075/2016-04-01/construccion
+897,39075,2016-04,39,6,Industria,39075/2016-04-01/industria
+164,39075,2016-04,39,6,Agricultura,39075/2016-04-01/agricultura
+10263,39075,2016-04,39,6,Servicios,39075/2016-04-01/servicios
+1668,39075,2016-05,39,6,Construcción,39075/2016-05-01/construccion
+10033,39075,2016-05,39,6,Servicios,39075/2016-05-01/servicios
+877,39075,2016-05,39,6,Industria,39075/2016-05-01/industria
+1109,39075,2016-05,39,6,Sin empleo anterior,39075/2016-05-01/sin-empleo-anterior
+163,39075,2016-05,39,6,Agricultura,39075/2016-05-01/agricultura
+161,39075,2016-06,39,6,Agricultura,39075/2016-06-01/agricultura
+9493,39075,2016-06,39,6,Servicios,39075/2016-06-01/servicios
+825,39075,2016-06,39,6,Industria,39075/2016-06-01/industria
+1604,39075,2016-06,39,6,Construcción,39075/2016-06-01/construccion
+1070,39075,2016-06,39,6,Sin empleo anterior,39075/2016-06-01/sin-empleo-anterior
+1564,39075,2016-07,39,6,Construcción,39075/2016-07-01/construccion
+1042,39075,2016-07,39,6,Sin empleo anterior,39075/2016-07-01/sin-empleo-anterior
+795,39075,2016-07,39,6,Industria,39075/2016-07-01/industria
+159,39075,2016-07,39,6,Agricultura,39075/2016-07-01/agricultura
+9041,39075,2016-07,39,6,Servicios,39075/2016-07-01/servicios
+798,39075,2016-08,39,6,Industria,39075/2016-08-01/industria
+9160,39075,2016-08,39,6,Servicios,39075/2016-08-01/servicios
+1529,39075,2016-08,39,6,Construcción,39075/2016-08-01/construccion
+157,39075,2016-08,39,6,Agricultura,39075/2016-08-01/agricultura
+1011,39075,2016-08,39,6,Sin empleo anterior,39075/2016-08-01/sin-empleo-anterior
+1498,39075,2016-09,39,6,Construcción,39075/2016-09-01/construccion
+811,39075,2016-09,39,6,Industria,39075/2016-09-01/industria
+9574,39075,2016-09,39,6,Servicios,39075/2016-09-01/servicios
+158,39075,2016-09,39,6,Agricultura,39075/2016-09-01/agricultura
+1040,39075,2016-09,39,6,Sin empleo anterior,39075/2016-09-01/sin-empleo-anterior
+1065,39075,2016-10,39,6,Sin empleo anterior,39075/2016-10-01/sin-empleo-anterior
+1471,39075,2016-10,39,6,Construcción,39075/2016-10-01/construccion
+9889,39075,2016-10,39,6,Servicios,39075/2016-10-01/servicios
+164,39075,2016-10,39,6,Agricultura,39075/2016-10-01/agricultura
+796,39075,2016-10,39,6,Industria,39075/2016-10-01/industria

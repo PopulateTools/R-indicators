@@ -88,12 +88,16 @@ parados_edad <- read.csv("data/parados_edad.csv")
 parados_edad_sexo <- read.csv("data/parados_edad_sexo.csv")
 parados_sector <- read.csv("data/parados_sector.csv")
 parados <- read.csv("data/parados.csv")
+tasa_paro <- read.csv("data/tasa_paro.csv")
 
 # Fix dates
 parados$date <- as.Date(as.yearmon(parados$date))
 parados_edad$date <- as.Date(as.yearmon(parados_edad$date))
+parados_edad_sexo$date <- as.Date(as.yearmon(parados_edad_sexo$date))
 parados_sector$date <- as.Date(as.yearmon(parados_sector$date))
+afiliados_ss$date <- as.Date(as.yearmon(afiliados_ss$date))
 
+# Número de parados
 ggplot(parados, aes(date, value, group = 1)) + 
   geom_line()
 ```
@@ -103,11 +107,6 @@ ggplot(parados, aes(date, value, group = 1)) +
 ``` r
 # Seasonally adjusted
 adjusted_unemployment <- ts(parados$value, start = c(2005, 5), end = c(2016, 10), freq = 12)
-
-# seas(adjusted_unemployment)
-# plot(adjusted_unemployment)
-# final(adjusted_unemployment)
-
 fit <- stl(adjusted_unemployment, s.window="period")
 plot(fit)
 ```
@@ -115,21 +114,64 @@ plot(fit)
 ![](graphics_files/figure-markdown_github/unnamed-chunk-4-2.png)
 
 ``` r
-# Fix date
+# ARIMA X13 Seats
+# seas(adjusted_unemployment)
+# plot(adjusted_unemployment)
+# final(adjusted_unemployment)
 
-# Parados por grupo de edad
-ggplot(parados_edad, aes(date, value, group=age_range, color=age_range)) +
+# Afiliados a la SS
+ggplot(afiliados_ss, aes(date, value)) +
   geom_line()
 ```
 
 ![](graphics_files/figure-markdown_github/unnamed-chunk-4-3.png)
 
 ``` r
-# Parados por sector
-ggplot(parados_sector, aes(date, value, group=sector, color=sector)) + 
+# Parados por grupo de edad
+ggplot(parados_edad, aes(date, value, group=age_range, color=age_range)) +
   geom_line()
 ```
 
-    ## Warning: Removed 98 rows containing missing values (geom_path).
-
 ![](graphics_files/figure-markdown_github/unnamed-chunk-4-4.png)
+
+``` r
+# Areas
+ggplot(parados_edad, aes(date, value, group=age_range, fill=age_range)) +
+  geom_area()
+```
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-4-5.png)
+
+``` r
+# Parados por sector
+ggplot(parados_sector, aes(date, value, group=sector, color=sector)) +
+  geom_line()
+```
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-4-6.png)
+
+``` r
+# Flip coordinates
+ggplot(parados_sector, aes(date, value, group=sector, color=sector)) +
+  geom_line() +
+  coord_flip()
+```
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-4-7.png)
+
+``` r
+# Areas
+ggplot(parados_sector, aes(date, value, group=sector, fill=sector)) +
+  geom_area()
+```
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-4-8.png)
+
+``` r
+# Facets
+ggplot(parados_sector, aes(date, value, color = sector)) +
+  geom_line(size = 0.5) +
+  facet_wrap(~ sector, nrow = 1)
+```
+
+![](graphics_files/figure-markdown_github/unnamed-chunk-4-9.png)

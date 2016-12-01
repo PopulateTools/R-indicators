@@ -67,30 +67,77 @@ parados <- read.csv("data/parados.csv")
 # Fix dates
 parados$date <- as.Date(as.yearmon(parados$date))
 parados_edad$date <- as.Date(as.yearmon(parados_edad$date))
+parados_edad_sexo$date <- as.Date(as.yearmon(parados_edad_sexo$date))
 parados_sector$date <- as.Date(as.yearmon(parados_sector$date))
+afiliados_ss$date <- as.Date(as.yearmon(afiliados_ss$date))
+tasa_paro$date <- as.Date(as.yearmon(tasa_paro$date))
 
+# Número de parados
 ggplot(parados, aes(date, value, group = 1)) + 
   geom_line()
 
 # Seasonally adjusted
 adjusted_unemployment <- ts(parados$value, start = c(2005, 5), end = c(2016, 10), freq = 12)
+fit <- stl(adjusted_unemployment, s.window="period")
+plot(fit)
 
+# ARIMA X13 Seats
 # seas(adjusted_unemployment)
 # plot(adjusted_unemployment)
 # final(adjusted_unemployment)
 
-fit <- stl(adjusted_unemployment, s.window="period")
-plot(fit)
-
-# Fix date
+# Afiliados a la SS
+ggplot(afiliados_ss, aes(date, value)) +
+  geom_line()
 
 # Parados por grupo de edad
 ggplot(parados_edad, aes(date, value, group=age_range, color=age_range)) +
   geom_line()
 
+# Areas
+ggplot(parados_edad, aes(date, value, group=age_range, fill=age_range)) +
+  geom_area()
+
+
 # Parados por sector
-ggplot(parados_sector, aes(date, value, group=sector, color=sector)) + 
+ggplot(parados_sector, aes(date, value, group=sector, color=sector)) +
   geom_line()
+
+# Flip coordinates
+ggplot(parados_sector, aes(date, value, group=sector, color=sector)) +
+  geom_line() +
+  coord_flip()
+ 
+# Areas
+ggplot(parados_sector, aes(date, value, group=sector, fill=sector)) +
+  geom_area()
+
+# Facets
+ggplot(parados_sector, aes(date, value, color = sector)) +
+  geom_line(size = 0.5) +
+  facet_wrap(~ sector, nrow = 1)
+
+```
+
+#### Tasa de paro municipal
+```{r}
+library(ggplot2)
+library(zoo)
+
+parados_sector <- read.csv("data/parados_sector.csv")
+pop_activa <- read.csv("data/poblacion_activa.csv")
+
+# Extract year from parados_sector
+parados_sector$year <- substr(parados_sector$date, 1, 4)
+pop_activa$year <- pop_activa$date
+
+# Merge by year
+tasa_paro_sector <- merge(parados_sector, pop_activa, by="year", all.y = TRUE)
+
+# Get unemployed pct
+tasa_paro_sector$value <- round(tasa_paro_sector$value.x / tasa_paro_sector$value.y * 100, 2)
+
+### In progress
 
 ```
 
