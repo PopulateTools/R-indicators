@@ -70,7 +70,6 @@ parados_edad$date <- as.Date(as.yearmon(parados_edad$date))
 parados_edad_sexo$date <- as.Date(as.yearmon(parados_edad_sexo$date))
 parados_sector$date <- as.Date(as.yearmon(parados_sector$date))
 afiliados_ss$date <- as.Date(as.yearmon(afiliados_ss$date))
-tasa_paro$date <- as.Date(as.yearmon(tasa_paro$date))
 
 # Número de parados
 ggplot(parados, aes(date, value, group = 1)) + 

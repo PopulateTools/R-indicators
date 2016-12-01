@@ -88,7 +88,6 @@ parados_edad <- read.csv("data/parados_edad.csv")
 parados_edad_sexo <- read.csv("data/parados_edad_sexo.csv")
 parados_sector <- read.csv("data/parados_sector.csv")
 parados <- read.csv("data/parados.csv")
-tasa_paro <- read.csv("data/tasa_paro.csv")
 
 # Fix dates
 parados$date <- as.Date(as.yearmon(parados$date))
@@ -175,3 +174,25 @@ ggplot(parados_sector, aes(date, value, color = sector)) +
 ```
 
 ![](graphics_files/figure-markdown_github/unnamed-chunk-4-9.png)
+
+#### Tasa de paro municipal
+
+``` r
+library(ggplot2)
+library(zoo)
+
+parados_sector <- read.csv("data/parados_sector.csv")
+pop_activa <- read.csv("data/poblacion_activa.csv")
+
+# Extract year from parados_sector
+parados_sector$year <- substr(parados_sector$date, 1, 4)
+pop_activa$year <- pop_activa$date
+
+# Merge by year
+tasa_paro_sector <- merge(parados_sector, pop_activa, by="year", all.y = TRUE)
+
+# Get unemployed pct
+tasa_paro_sector$value <- round(tasa_paro_sector$value.x / tasa_paro_sector$value.y * 100, 2)
+
+### In progress
+```
